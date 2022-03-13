@@ -1,4 +1,4 @@
-# Oh no, you found my super secret diary!!!
+# Oh no, you found my secret diary!!!
 
 ...This is just a repository that I use to upload Markdown notes and send them to other people, because GitHub conveniently makes a table of contents.
 
