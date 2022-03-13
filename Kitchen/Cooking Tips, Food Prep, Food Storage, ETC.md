@@ -242,6 +242,8 @@
 - [kitchn - You Must Try This! Chinese Red-Cooking](https://www.thekitchn.com/you-must-try-this-chinese-redc-127715)
 - [epicurious - Red-Cooking Is the Simple Braising Method I Can’t Live Without](https://www.epicurious.com/expert-advice/red-cooking-technique-simple-chinese-braising-method-article)
 
+# Tips/Info Regarding Specific Items
+
 ## On Salt (Table vs. Kosher, Iodine Deficiency Risks, ETC)
 
 - Table salts typically have significantly higher bulk density than kosher salts with large flakes (such as Diamond Crystal).
@@ -268,6 +270,13 @@
 - [NIH - Consumer Fact Sheet - Iodine](https://ods.od.nih.gov/factsheets/Iodine-Consumer/)
 - [Serious Eats](https://www.seriouseats.com/ask-the-food-lab-do-i-need-to-use-kosher-salt)
 - https://www.reddit.com/r/EatCheapAndHealthy/comments/hvu08m/try_using_iodized_white_salt_for_your_food_and/
+
+## On Oil
+
+### Links
+
+- [Adam Ragusea - Why we cook food in oil](https://youtu.be/ktVSavCov9Y)
+- [Adam Ragusea - Is olive oil safe at high heat? Does it taste bad?](https://youtu.be/l_aFHrzSBrM)
 
 ## On MSG
 
