@@ -296,6 +296,18 @@
 
 - [epicurious - 25 Ways You Should Be Using Mayonnaise](https://www.epicurious.com/ingredients/cooking-with-mayonnaise-recipes-tips-grilled-cheese-chocolate-cake-article)
 
+## On Wine
+
+- White wines like Pinot Grigio can be a very versatile addition to dishes wherever a liquid is welcome or needed, adding a bit of sweetness and acidity. It also does a good job of livening up the flavors from the other ingredients.
+- Red wines can impart a more full-bodied and intense flavor than a white wine, but should be used more situationally, as it can be too strong, or add too much bitterness/astringency from the tannins.
+- Japanese cooking often uses cooking sake (ryourishu) and/or mirin, while Chinese cooking often uses cooking Shaoxing huangjiu wine (liaojiu).
+- Cheaper/lower grade wines are typically just fine for most cooking applications, as the subtleties and more refined characteristics of higher priced wines would often just be lost in the cooking process.
+
+### Links
+
+- [Adam Ragusea - Why I Put White Wine In Basically Everything](https://youtu.be/JbY8BtcchjU)
+- [Chinese Cooking Demystified - What is Shaoxing Wine, and why's it in almost every Chinese recipe?](https://youtu.be/5UyKUI5U67k)
+
 # Food Storage - Fridge and Pantry
 
 ## Links
