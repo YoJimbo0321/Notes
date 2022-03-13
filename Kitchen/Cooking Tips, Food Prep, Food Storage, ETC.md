@@ -242,7 +242,7 @@
 - [kitchn - You Must Try This! Chinese Red-Cooking](https://www.thekitchn.com/you-must-try-this-chinese-redc-127715)
 - [epicurious - Red-Cooking Is the Simple Braising Method I Can’t Live Without](https://www.epicurious.com/expert-advice/red-cooking-technique-simple-chinese-braising-method-article)
 
-## Salt (and Iodine Deficiency Risks)
+## On Salt (Table vs. Kosher, Iodine Deficiency Risks, ETC)
 
 - Table salts typically have significantly higher bulk density than kosher salts with large flakes (such as Diamond Crystal).
 - Roughly speaking, **"A cup of table salt will have twice the salting power of a cup of Diamond Crystal kosher salt."**
@@ -269,7 +269,7 @@
 - [Serious Eats](https://www.seriouseats.com/ask-the-food-lab-do-i-need-to-use-kosher-salt)
 - https://www.reddit.com/r/EatCheapAndHealthy/comments/hvu08m/try_using_iodized_white_salt_for_your_food_and/
 
-## MSG
+## On MSG
 
 - TL;DR MSG is naturally occurring in many foods, including tomatoes and cheeses. It isn't a scary artificial chemical.
 - However, some people really do have reactions and/or sensitivity to MSG, especially in larger amounts and on empty stomachs.
@@ -278,7 +278,7 @@
 
 - [Serious Eats - Is MSG Actually Bad for You?](https://www.seriouseats.com/ask-the-food-lab-the-truth-about-msg)
 
-## Mayonnaise
+## On Mayonnaise
 
 - Use it on sandwich bread (by itself or as part of a spread) to act as a moisture barrier between the bread and ingredients, as well as adding some fat/lubrication.
 - Use it like butter to brown the outsides of seared/roasted meat, roasted potatoes, grilled cheeses, etc.
@@ -295,6 +295,7 @@
 - [Healthline - Can I Still Eat It: How to Safely Store Meat](https://www.healthline.com/health/can-i-still-eat-it-meats)
 - [Healthline - Fruit and Vegetable Safety](https://www.healthline.com/health/food-safety-fruits-vegetables)
 - [Serious Eats - The Best Way to Store Fresh Herbs](https://www.seriouseats.com/the-best-way-to-store-fresh-herbs-parsley-cilantro-dill-basil)
+- [Internet Shaquille - You Have to Eat Vegetables - Here's How](https://youtu.be/CHzbvd7k_Ac)
 
 ## Storage Life - Refrigerator 
 
@@ -315,7 +316,9 @@
 
 ## Extending Storage Life and Managing Expiration Dates
 
-- Be mindful of produce that releases a lot of ethylene, which when stored together or with other produce will cause them to ripen and subsequently go bad more quickly.
+- Never store produce in the supermarket produce bags from the rolls. Those are only intended to keep the produce together until you bring it home. They tend to be fairly impermeable and hasten ripening/rotting due to the lack of air flow.
+- Be particularly mindful of produce that releases a lot of ethylene gas (ex. bananas), which when stored bunched together or with other produce will cause them to ripen and subsequently go bad much more quickly.
+- When in doubt, mimic the supermarket conditions for the item. If it was displayed dry, store it dry. If it was being chilled and periodically misted, store in the produce drawer of the fridge with a slightly moist paper towel or rag to add humidity.
 - Consider using produce saver bags or containers that help manage air flow and/or moisture.
 - Consider freezing things that keep and defrost well, especially for applications where preserving texture is not critical.
 - Use removable sticker labels on bags and containers to clearly mark expiration dates, to make it easier to stay aware of upcoming or past dates.
