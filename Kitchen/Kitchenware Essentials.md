@@ -7,7 +7,7 @@
 - Digital tea/coffee/herb scale
 - Dishwasher
 - Electric kettle
-- Kitchen timer - ThemooWorks TimeStick Trio
+- Kitchen timer - ThermoWorks TimeStick Trio
 - Microwave
 - Pressure cooker (Instant Pot)
 - Refrigerator/freezer
@@ -18,11 +18,116 @@
 
 # Stovetop Cookware, ETC
 
-- Sauce pan - Tri-ply stainless steel sauce pan w/ lid, 3 quart
-- Saute pan - Tri-ply stainless steel saute pan w/ lid, 5 quart
-- Skillet - Nonstick skillet w/lid, 10"
-- Dutch oven - Enameled cast iron dutch oven, 6 quart
-- Wok - Carbon steel pow wok w/ lid and helper handle, 14" **(see separate note)**
+## Essentials
+
+- Carbon steel wok w/ lid, 14"
+- Enameled cast iron dutch oven, 6 quart
+- Nonstick skillet w/lid, 10"
+- Tri-ply stainless steel sauce pan or saucier w/ lid, 3 quart
+- Tri-ply stainless steel saute pan w/ lid, 5 quart
+
+## Optional Extras
+
+- Carbon steel skillet
+- Cast iron skillet
+- Stock pot
+
+## Pros and Cons
+
+### Carbon Steel Skillet
+
+```plaintext
++ Best for sauteing.
++ Thin and heats up fast.
++ Relatively light weight and sloped sides make it good for tossing food.
++ Once seasoned, carbon steel provides a good enough non-stick surface for many uses (ex. frying eggs).
+
+- Carbon steel requires seasoning and maintenance to develop a non-stick surface and prevent rust.
+- Carbon steel is reactive, so it is not ideal for holding acidic ingredients (ex. tomato sauce, wine, sauces that contain lemon juice/vinegar, etc.) for an extended time, as they can leach a metallic taste.
+```
+
+### Carbon Steel Wok w/ Lid, 14"
+
+```plaintext
++ Best for stir-frying and deep-frying due to the size and deep sloped sides.
++ Good for steaming (with racks or baskets).
++ Good for blanching/parboiling.
++ Thin and heats up fast.
++ Once seasoned, carbon steel provides a good enough non-stick surface for many uses (ex. frying eggs).
+
+- Little to no flat surface makes it poorly suited to tasks like sauteing.
+- Carbon steel requires seasoning and maintenance to develop a non-stick surface and prevent rust.
+- Carbon steel is reactive, so it is not ideal for holding acidic ingredients (ex. tomato sauce, wine, sauces that contain lemon juice/vinegar, etc.) for an extended time, as they can leach a metallic taste.
+```
+
+### Cast Iron Skillet
+
+```plaintext
++ Best for searing (ex. steaks).
++ High heat retention.
++ Once seasoned, cast iron provides a good enough non-stick surface for many uses (ex. frying eggs).
+
+- Slow to heat up.
+- Cast iron requires seasoning and maintenance to develop a non-stick surface and prevent rust.
+- Cast iron is reactive, so it is not ideal for holding acidic ingredients (ex. tomato sauce, wine, sauces that contain lemon juice/vinegar, etc.) for an extended time, as they can leach a metallic taste.
+```
+
+### Enameled Cast Iron Dutch Oven, 6 Quart
+
+```plaintext
++ Best for braising, soups, stews, etc.
++ High heat retention.
++ Enameled coating makes it safe to use for most ingredients.
+
+- Slow to heat up.
+- Requires careful use and handwashing to preserve the enameled coating.
+```
+
+### Nonstick Skillet w/Lid, 10"
+
+```plaintext
++ Best non-stick surface for cooking eggs and other delicate foods.
++ Sloped sides make it good for tossing food.
++ Easy to clean due to the non-stick surface.
+
+- Relatively poor choice for browning.
+- Requires careful use and handwashing to preserve the non-stick coating.
+- Even if used with care, the coating will still inevitably wear away over time and the pan will have to be replaced.
+```
+
+### Stock Pot
+
+```plaintext
++ It's big.
++ Best for big batches and jobs (ex. making stock).
++ Stainless steel is non-reactive, so it is safe to use for most ingredients.
+
+- It's big.
+```
+
+### Tri-Ply Stainless Steel Sauce Pan or Saucier w/ Lid, 3 Quart
+
+```plaintext
++ It's small.
++ Best for small batches of soups or sauces.
++ Relatively quick to heat.
++ Stainless steel is non-reactive, so it is safe to use for most ingredients.
+
+- It's small.
+```
+
+### Tri-Ply Stainless Steel Saute Pan w/ Lid, 5 Quart
+
+```plaintext
++ Best for intentionally forming fonds and making pan sauces.
++ Good for shallow wet cooking (ex. sauces, pasta, braising, etc.).
++ Good for sauteing.
++ Stainless steel is non-reactive, so it is safe to use for most ingredients.
+
+- High flat sides make it poorly suited to tossing food while sauteing.
+- Stainless steel is not very non-stick, making it relatively poorly suited to tasks like frying eggs.
+- Stainless steel can be annoying to clean due to the stuck food bits (often needs Barkeepers Friend and a scrubbing).
+```
 
 # Bakeware, ETC
 
@@ -117,6 +222,8 @@
 - [Ethan Chlebowski - 10 Budget friendly gifts for the burgeoning home cook)](https://youtu.be/QNEqZnb1pQk)
 - [Ethan Chlebowski - 8 Cheap Kitchen Tools I Use All the Time](https://youtu.be/KBoyPssFZBs)
 - [Ethan Chlebowski - Beginner's guide to Kitchen Organization (Fridge, Pantry, Knives, Pots + more)](https://youtu.be/MhQCvS2oe1w)
+- [Ethan Chlebowski - Minimalist Kitchen Essentials | My traveling kitchen setup.](https://youtu.be/jNnol6wc6QI)
+- [Helen Rennie - The Truth about Cutting Boards (Knife Skills Series Ep. 3)](https://youtu.be/CKxUpXJRW_Y)
 - [Internet Shaquille - 7 Underrated Kitchen Tools](https://youtu.be/47kiYyOaSec)
 - [Serious Eats - Essential Pots and Pans: The Cookware Every Kitchen Needs](https://www.seriouseats.com/gift-guide-essential-pots-and-pans-presents-for-home-cooks)
 - [Serious Eats - Every Kitchen Should Have a Bowl Scraper](https://www.seriouseats.com/bowl-scraper)
@@ -132,6 +239,7 @@
 - [Serious Eats - The Essential Kitchen Equipment We Wish We'd Bought Sooner](https://www.seriouseats.com/staff-picks-kitchen-equipment-favorite-tools)
 - [Serious Eats - The Food Lab's Top 10 Pieces of Kitchen Equipment](https://www.seriouseats.com/the-ten-best-kitchen-tools-gadgets-gear)
 - [Serious Eats - The Kitchen Starter Kit: Essential Tools for Every Cook](https://www.seriouseats.com/basic-starter-kitchen-equipment)
+- [Serious Eats - What's the Difference Between a Skillet and a Saute Pan?](https://www.seriouseats.com/equipment-whats-the-difference-between-a-skillet-a-fry-pan-and-a-saute-pan)
 - [Serious Eats - Why a Y-Peeler Is the Best Vegetable Peeler](https://www.seriouseats.com/the-best-vegetable-peeler)
 - [Serious Eats - Why You Need a Chef's Press in Your Kitchen](https://www.seriouseats.com/why-you-need-a-chefs-press)
 - [Serious Eats - Why You Shouldn't Buy a Slow Cooker](https://www.seriouseats.com/why-pressure-cookers-are-better-than-slow-cookers)
