@@ -1,3 +1,5 @@
+# Notes
+
 This is just a repository that I use to upload Markdown notes and send them to other people, because GitHub conveniently creates a table of contents.
 
 Ideally, this repo would be unlisted, BUT GitHub doesn't support that, so...
