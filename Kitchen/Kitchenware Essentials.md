@@ -2,79 +2,35 @@
 
 # Kitchen Appliances, ETC
 
-- Burners or full stovetop
-- Digital kitchen scale
-- Digital tea/coffee/herb scale
+- Burners and/or full stovetop range
+- Digital scale: Kitchen scale
+- Digital scale: Tea/coffee/herb scale (for smaller, more accurate measurements)
 - Dishwasher
 - Electric kettle
-- Kitchen timer - ThermoWorks TimeStick Trio
+- Kitchen timer (ThermoWorks TimeStick Trio)
 - Microwave
 - Pressure cooker (Instant Pot)
 - Refrigerator/freezer
 - Rice cooker and paddle (Zojirushi)
-- Thermometer - Instant read thermometer (ThermoWorks ThermoPop)
-- Thermometer - Probe thermometer w/ alarm (ThermoWorks ChefAlarm Cooking Alarm Thermometer and Timer)
+- Thermometer: Instant read thermometer (ThermoWorks ThermoPop)
+- Thermometer: Probe thermometer w/ alarm (ThermoWorks ChefAlarm Cooking Alarm Thermometer and Timer)
 - Toaster oven and/or full kitchen oven
 
 # Stovetop Cookware, ETC
 
 ## Essentials
 
-- Carbon steel wok w/ lid, 14"
-- Enameled cast iron dutch oven, 6 quart
-- Nonstick skillet w/lid, 10"
-- Tri-ply stainless steel sauce pan or saucier w/ lid, 3 quart
-- Tri-ply stainless steel saute pan w/ lid, 5 quart
+- Dutch oven: Enameled cast iron; 6 quarts
+- Sauce pan or saucier: Tri-ply stainless steel; 3+ quarts
+- Saute pan: Tri-ply stainless steel; 5 quarts (12")
+- Skillet: Carbon Steel; 10"
+- Wok: Carbon steel; 14"
 
-## Optional Extras
-
-- Carbon steel skillet
-- Cast iron skillet
-- Stock pot
-
-## Pros and Cons
-
-### Carbon Steel Skillet
+### Pros and Cons
 
 ```plaintext
-+ Best for sauteing.
-+ Thin and heats up fast.
-+ Relatively light weight and sloped sides make it good for tossing food.
-+ Once seasoned, carbon steel provides a good enough non-stick surface for many uses (ex. frying eggs).
+Dutch oven: Enameled cast iron; 6 quarts
 
-- Carbon steel requires seasoning and maintenance to develop a non-stick surface and prevent rust.
-- Carbon steel is reactive, so it is not ideal for holding acidic ingredients (ex. tomato sauce, wine, sauces that contain lemon juice/vinegar, etc.) for an extended time, as they can leach a metallic taste.
-```
-
-### Carbon Steel Wok w/ Lid, 14"
-
-```plaintext
-+ Best for stir-frying and deep-frying due to the size and deep sloped sides.
-+ Good for steaming (with racks or baskets).
-+ Good for blanching/parboiling.
-+ Thin and heats up fast.
-+ Once seasoned, carbon steel provides a good enough non-stick surface for many uses (ex. frying eggs).
-
-- Little to no flat surface makes it poorly suited to tasks like sauteing.
-- Carbon steel requires seasoning and maintenance to develop a non-stick surface and prevent rust.
-- Carbon steel is reactive, so it is not ideal for holding acidic ingredients (ex. tomato sauce, wine, sauces that contain lemon juice/vinegar, etc.) for an extended time, as they can leach a metallic taste.
-```
-
-### Cast Iron Skillet
-
-```plaintext
-+ Best for searing (ex. steaks).
-+ High heat retention.
-+ Once seasoned, cast iron provides a good enough non-stick surface for many uses (ex. frying eggs).
-
-- Slow to heat up.
-- Cast iron requires seasoning and maintenance to develop a non-stick surface and prevent rust.
-- Cast iron is reactive, so it is not ideal for holding acidic ingredients (ex. tomato sauce, wine, sauces that contain lemon juice/vinegar, etc.) for an extended time, as they can leach a metallic taste.
-```
-
-### Enameled Cast Iron Dutch Oven, 6 Quart
-
-```plaintext
 + Best for braising, soups, stews, etc.
 + High heat retention.
 + Enameled coating makes it safe to use for most ingredients.
@@ -83,50 +39,105 @@
 - Requires careful use and handwashing to preserve the enameled coating.
 ```
 
-### Nonstick Skillet w/Lid, 10"
-
 ```plaintext
-+ Best non-stick surface for cooking eggs and other delicate foods.
-+ Sloped sides make it good for tossing food.
-+ Easy to clean due to the non-stick surface.
+Sauce pan or saucier: Tri-ply stainless steel; 3+ quarts
 
-- Relatively poor choice for browning.
-- Requires careful use and handwashing to preserve the non-stick coating.
-- Even if used with care, the coating will still inevitably wear away over time and the pan will have to be replaced.
-```
-
-### Stock Pot
-
-```plaintext
-+ It's big.
-+ Best for big batches and jobs (ex. making stock).
-+ Stainless steel is non-reactive, so it is safe to use for most ingredients.
-
-- It's big.
-```
-
-### Tri-Ply Stainless Steel Sauce Pan or Saucier w/ Lid, 3 Quart
-
-```plaintext
 + It's small.
-+ Best for small batches of soups or sauces.
++ Best for small batches of soups, sauces, boiled eggs, etc.
 + Relatively quick to heat.
 + Stainless steel is non-reactive, so it is safe to use for most ingredients.
++ Stainless steel is uncoated and safe for use with metal utensils.
 
 - It's small.
 ```
 
-### Tri-Ply Stainless Steel Saute Pan w/ Lid, 5 Quart
-
 ```plaintext
-+ Best for intentionally forming fonds and making pan sauces.
+Saute pan: Tri-ply stainless steel; 5 quarts (12")
+
++ Best for intentionally forming fonds and deglazing to make pan sauces.
 + Good for shallow wet cooking (ex. sauces, pasta, braising, etc.).
-+ Good for sauteing.
++ Good for sauteing in larger batches.
 + Stainless steel is non-reactive, so it is safe to use for most ingredients.
++ Stainless steel is uncoated and safe for use with metal utensils.
 
 - High flat sides make it poorly suited to tossing food while sauteing.
+- Large diameter can lead to uneven heating on typical burners.
 - Stainless steel is not very non-stick, making it relatively poorly suited to tasks like frying eggs.
-- Stainless steel can be annoying to clean due to the stuck food bits (often needs Barkeepers Friend and a scrubbing).
+- Stainless steel can be annoying to clean unless deglazed, due to the stuck food bits (often needs Barkeepers Friend and a scrubbing).
+```
+
+```plaintext
+Skillet: Carbon Steel; 10"
+
++ Best for sauteing.
++ Good for searing.
++ Thin and heats up quickly.
++ Heats up relatively evenly on typical burners due to the small diameter.
++ Relatively light weight and sloped sides make it good for flipping/tossing food and stir-frying.
++ Once seasoned, carbon steel provides a good enough non-stick surface for many uses (ex. frying eggs).
+
+- Small diameter may not be ideal for larger batches.
+- Carbon steel requires seasoning and maintenance to develop a non-stick surface and prevent rust.
+- Carbon steel is reactive, so it is not ideal for holding acidic ingredients (ex. tomato sauce, wine, sauces that contain lemon juice/vinegar, etc.) for an extended time, as they can leach a metallic taste.
+```
+
+```plaintext
+Wok: Carbon steel; 14"
+
++ Best for flipping/tossing food, stir-frying, and deep-frying due to the size and deep, sloped sides.
++ Good for steaming (with racks or baskets).
++ Good for blanching/parboiling.
++ Thin and heats up quickly.
++ Once seasoned, carbon steel provides a good enough non-stick surface for many uses (ex. frying eggs).
+
+- Little to no flat surface makes it relatively poorly suited to tasks like sauteing.
+- Carbon steel requires seasoning and maintenance to develop a non-stick surface and prevent rust.
+- Carbon steel is reactive, so it is not ideal for holding acidic ingredients (ex. tomato sauce, wine, sauces that contain lemon juice/vinegar, etc.) for an extended time, as they can leach a metallic taste.
+```
+
+## Optional Extras
+
+- Skillet: Cast iron; 10"
+- Skillet: Nonstick; 10"
+- Stock pot: Tri-ply stainless steel; 8+ quarts
+
+### Pros and Cons
+
+```plaintext
+Skillet: Cast iron; 10"
+
++ Best for high-heat searing (ex. steaks).
++ High heat retention.
++ Once seasoned, cast iron provides a good enough non-stick surface for many uses (ex. frying eggs).
+
+- Slow to heat up.
+- Heavy and unwieldy.
+- Cast iron requires seasoning and maintenance to develop a non-stick surface and prevent rust.
+- Cast iron is reactive, so it is not ideal for holding acidic ingredients (ex. tomato sauce, wine, sauces that contain lemon juice/vinegar, etc.) for an extended time, as they can leach a metallic taste.
+```
+
+```plaintext
+Skillet: Nonstick; 10"
+
++ Best non-stick surface for cooking eggs and other delicate foods.
++ Sloped sides make it good for tossing food.
++ Easiest to clean due to the coated non-stick surface.
+
+- Not oven-safe.
+- Relatively poor choice for searing and browning.
+- Requires careful use and handwashing to preserve the non-stick coating.
+- Even if used with care, the coating will still inevitably wear away over time and the pan will have to be replaced.
+```
+
+```plaintext
+Stock pot: Tri-ply stainless steel; 8+ quarts
+
++ It's big.
++ Best for particularly big batches and jobs (ex. making stock).
++ Stainless steel is non-reactive, so it is safe to use for most ingredients.
++ Stainless steel is uncoated and safe for use with metal utensils.
+
+- It's big.
 ```
 
 # Bakeware, ETC
@@ -225,6 +236,7 @@
 - [Ethan Chlebowski - Minimalist Kitchen Essentials | My traveling kitchen setup.](https://youtu.be/jNnol6wc6QI)
 - [Helen Rennie - The Truth about Cutting Boards (Knife Skills Series Ep. 3)](https://youtu.be/CKxUpXJRW_Y)
 - [Internet Shaquille - 7 Underrated Kitchen Tools](https://youtu.be/47kiYyOaSec)
+- [Made In - Blue Carbon Steel Pans Explained (feat. Lucas Sin)](https://youtu.be/GD6MUfH5whs)
 - [Serious Eats - Essential Pots and Pans: The Cookware Every Kitchen Needs](https://www.seriouseats.com/gift-guide-essential-pots-and-pans-presents-for-home-cooks)
 - [Serious Eats - Every Kitchen Should Have a Bowl Scraper](https://www.seriouseats.com/bowl-scraper)
 - [Serious Eats - Guide to Essential Kitchen Hand Tools, Part 1](https://www.seriouseats.com/essential-kitchen-tools-every-kitchen-needs-to-have)
