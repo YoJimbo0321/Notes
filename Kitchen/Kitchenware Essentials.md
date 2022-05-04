@@ -2,6 +2,7 @@
 
 # Kitchen Cookware, Appliances, ETC
 
+- Blender 
 - Burners and/or full stovetop range
 - Digital scale: Kitchen scale
 - Digital scale: Tea/coffee/herb scale (for smaller, more accurate measurements)
