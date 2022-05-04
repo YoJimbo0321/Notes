@@ -1,6 +1,6 @@
 # Kitchen - Kitchenware Essentials
 
-# Kitchen Appliances, ETC
+# Kitchen Cookware, Appliances, ETC
 
 - Burners and/or full stovetop range
 - Digital scale: Kitchen scale
@@ -16,14 +16,14 @@
 - Thermometer: Probe thermometer w/ alarm (ThermoWorks ChefAlarm Cooking Alarm Thermometer and Timer)
 - Toaster oven and/or full kitchen oven
 
-# Stovetop Cookware, ETC
+# Stovetop Cookware
 
 ## Essentials
 
 - Dutch oven: Enameled cast iron; 6 quarts
 - Sauce pan or saucier: Tri-ply stainless steel; 3+ quarts
 - Saute pan: Tri-ply stainless steel; 5 quarts (12")
-- Skillet: Carbon Steel; 10"
+- Skillet: Carbon steel; 10"
 - Wok: Carbon steel; 14"
 
 ### Pros and Cons
@@ -52,7 +52,7 @@ Sauce pan or saucier: Tri-ply stainless steel; 3+ quarts
 ```
 
 ```plaintext
-Saute pan: Tri-ply stainless steel; 5 quarts (12")
+Saute pan: Tri-ply stainless steel; ~3-5 quarts (12")
 
 + Best for intentionally forming fonds and deglazing to make pan sauces.
 + Good for shallow wet cooking (ex. sauces, pasta, braising, etc.).
@@ -67,18 +67,18 @@ Saute pan: Tri-ply stainless steel; 5 quarts (12")
 ```
 
 ```plaintext
-Skillet: Carbon Steel; 10"
+Skillet: Carbon steel; 10"
 
 + Best for sauteing.
-+ Good for searing.
++ Good for high-heat searing.
 + Thin and heats up quickly.
 + Heats up relatively evenly on typical burners due to the small diameter.
 + Relatively light weight and sloped sides make it good for flipping/tossing food and stir-frying.
 + Once seasoned, carbon steel provides a good enough non-stick surface for many uses (ex. frying eggs).
 
-- Small diameter may not be ideal for larger batches.
 - Carbon steel requires seasoning and maintenance to develop a non-stick surface and prevent rust.
 - Carbon steel is reactive, so it is not ideal for holding acidic ingredients (ex. tomato sauce, wine, sauces that contain lemon juice/vinegar, etc.) for an extended time, as they can leach a metallic taste.
+- A carbon steel skillet will never become as non-stick as a teflon or equivalent non-stick skillet, so it is not well suited to particularly delicate dishes.
 ```
 
 ```plaintext
@@ -120,7 +120,7 @@ Skillet: Cast iron; 10"
 Skillet: Nonstick; 10"
 
 + Best non-stick surface for cooking eggs and other delicate foods.
-+ Sloped sides make it good for tossing food.
++ Sloped sides and non-stick surface make it good for tossing food.
 + Easiest to clean due to the coated non-stick surface.
 
 - Not oven-safe.
@@ -177,6 +177,7 @@ Stock pot: Tri-ply stainless steel; 8+ quarts
 
 - Bain-marie
 - Bench scraper
+- Bowl scraper
 - Can/bottle opener
 - Chef's Press - 13 oz
 - Citrus press juicer
@@ -236,7 +237,9 @@ Stock pot: Tri-ply stainless steel; 8+ quarts
 - [Ethan Chlebowski - Minimalist Kitchen Essentials | My traveling kitchen setup.](https://youtu.be/jNnol6wc6QI)
 - [Helen Rennie - The Truth about Cutting Boards (Knife Skills Series Ep. 3)](https://youtu.be/CKxUpXJRW_Y)
 - [Internet Shaquille - 7 Underrated Kitchen Tools](https://youtu.be/47kiYyOaSec)
+- [kitchn - Cheesecloth Alternative: Reusable Flour Sack Towels](https://www.thekitchn.com/cheesecloth-alternative-reusab-138363)
 - [Made In - Blue Carbon Steel Pans Explained (feat. Lucas Sin)](https://youtu.be/GD6MUfH5whs)
+- [myrecipes - A Bain Marie Is Better Than a Spoon Rest](https://www.myrecipes.com/extracrispy/bain-marie-spoon-rest)
 - [Serious Eats - Essential Pots and Pans: The Cookware Every Kitchen Needs](https://www.seriouseats.com/gift-guide-essential-pots-and-pans-presents-for-home-cooks)
 - [Serious Eats - Every Kitchen Should Have a Bowl Scraper](https://www.seriouseats.com/bowl-scraper)
 - [Serious Eats - Guide to Essential Kitchen Hand Tools, Part 1](https://www.seriouseats.com/essential-kitchen-tools-every-kitchen-needs-to-have)
@@ -251,16 +254,19 @@ Stock pot: Tri-ply stainless steel; 8+ quarts
 - [Serious Eats - The Essential Kitchen Equipment We Wish We'd Bought Sooner](https://www.seriouseats.com/staff-picks-kitchen-equipment-favorite-tools)
 - [Serious Eats - The Food Lab's Top 10 Pieces of Kitchen Equipment](https://www.seriouseats.com/the-ten-best-kitchen-tools-gadgets-gear)
 - [Serious Eats - The Kitchen Starter Kit: Essential Tools for Every Cook](https://www.seriouseats.com/basic-starter-kitchen-equipment)
+- [Serious Eats - We Tested 15 Dutch Ovens - Here Are Our Favorites](https://www.seriouseats.com/best-cast-iron-dutch-ovens-equipment-review)
+- [Serious Eats - We Tested 9 Casserole Dishes - Here Are the Best Ones](https://www.seriouseats.com/the-best-baking-casserole-dishes)
 - [Serious Eats - What's the Difference Between a Skillet and a Saute Pan?](https://www.seriouseats.com/equipment-whats-the-difference-between-a-skillet-a-fry-pan-and-a-saute-pan)
 - [Serious Eats - Why a Y-Peeler Is the Best Vegetable Peeler](https://www.seriouseats.com/the-best-vegetable-peeler)
 - [Serious Eats - Why You Need a Chef's Press in Your Kitchen](https://www.seriouseats.com/why-you-need-a-chefs-press)
 - [Serious Eats - Why You Shouldn't Buy a Slow Cooker](https://www.seriouseats.com/why-pressure-cookers-are-better-than-slow-cookers)
 - [Serious Eats - Yes, You Need a Pair of Kitchen Tweezers. Here's Why.](https://www.seriouseats.com/equipment-editor-pick-kitchen-tweezer-love-letter)
+- [The Spruce Eats - Common Pans Used for Cooking and Baking](https://www.thespruceeats.com/common-pans-for-cooking-and-baking-3054065)
+- [The Spruce Eats - The Best Casserole Dishes to Delight Dinner Guests](https://www.thespruceeats.com/best-casserole-dishes-4077045)
 - [The Spruce Eats - What Is a Bench Scraper?](https://www.thespruceeats.com/definition-bench-scraper-908878)
-- [TigerChef (Online Restaurant Supply Store)](https://www.tigerchef.com)
-- [Webstaurant Store (Online Restaurant Supply Store)](https://www.webstaurantstore.com)
-- [myrecipes - A Bain Marie Is Better Than a Spoon Rest](https://www.myrecipes.com/extracrispy/bain-marie-spoon-rest)
-- [kitchn - Cheesecloth Alternative: Reusable Flour Sack Towels](https://www.thekitchn.com/cheesecloth-alternative-reusab-138363)
+- [(Online Restaurant Supply Store) TigerChef](https://www.tigerchef.com)
+- [(Online Restaurant Supply Store) Webstaurant Store](https://www.webstaurantstore.com)
+- [Munchies - Forget the Set: All You Need Is A 10-Inch Pan | Game Changers (Lucas Sin)](https://youtu.be/ghNbWKaiNuI)
 
 #kitchen
 #cookware
