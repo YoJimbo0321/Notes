@@ -67,8 +67,8 @@
 
 ## In Discord
 
-- Input Device: VoiceMeeter Aux Output
-- Output Device: CABLE Input
+- (Voice Chat) Input Device: VoiceMeeter Aux Output
+- (Voice Chat) Output Device: CABLE Input
 
 ## In Games And Other Voice Applications
 
