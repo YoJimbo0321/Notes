@@ -67,13 +67,13 @@
 
 ## In Discord
 
-- (Voice Chat) Input Device: VoiceMeeter Aux Output
-- (Voice Chat) Output Device: CABLE Input
+- Input Device: VoiceMeeter Aux Output
+- Output Device: CABLE Input
 
 ## In Games And Other Voice Applications
 
-- Input Device: VoiceMeeter Aux Output
-- Output Device: VoiceMeeter Aux Input
+- (Voice Chat) Input Device: VoiceMeeter Aux Output
+- (Voice Chat) Output Device: VoiceMeeter Aux Input
 
 ## Reducing Audio Latency
 
