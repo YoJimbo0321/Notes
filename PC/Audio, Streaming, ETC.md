@@ -7,7 +7,7 @@
 - [VoiceMeeter Virtual Inputs/Outputs (VAIO)](https://voicemeeter.com/quick-tips-voicemeeter-virtual-i-os/)
 - [Advanced Audio Streaming Elite Dangerous and ALL Games with Voice Meeter, OBS and Discord (Guide)](https://youtu.be/b5TpjNmkRYY)
 - [Separate Game Audio, Discord, Music in OBS! (A Voicemeeter Tutorial For Beginners)](https://youtu.be/XD9sWOjITYU)
-- [How to Remove Discord Voice Chat from Your OBS Stream](https://arutora.com/15444)
+- [How to Remove Discord Voice Chat from Your OBS Stream (JP)](https://arutora.com/15444)
 - [Use VoiceMeeter with VB Audio Cable for Skype, Zoom or Discord](https://voicemeeter.com/use-voicemeeter-with-vb-audio-cable-for-skype-zoom-or-discord/)
 - [Reducing Audio Latency in VoiceMeeter](https://www.youtube.com/watch?v=LAYKcIC5iFY&feature=youtu.be)
 - [OBS Studio - Wiki](https://obsproject.com/wiki/)
@@ -28,7 +28,7 @@
 
 - Control Panel > Sound > Recording > Microphone > Properties > Levels > Increase microphone gain
 - Increasing your gain at the source is the best way to boost your mic volume, but you should only boost the gain up to a point before it begins to significantly amplify background noise.
-- After setting this baseline gain level, you can further boost it in software (ex. applying a Gain filter in OBS)
+- After setting this baseline gain level, you can further boost it in software (ex. applying Gain in OBS)
 
 # VoiceMeeter Banana
 
@@ -38,7 +38,6 @@
 - Control Panel > Sound > Playback > Set VoiceMeeter Aux Input as Default Communications Device
 - Control Panel > Sound > Recording > Set VoiceMeeter Output as Default Device
 - Control Panel > Sound > Recording > Set VoiceMeeter Aux Output as Default Communications Device
-- *Settings > System > Sound > App volume and device preferences (Can separately set audio input/output to something other than the default for applications that don't let you change them within their own settings (ex. routing internet browser audio to Virtual Cable))* (Optional)
 
 ## Basic VoiceMeeter Settings
 
