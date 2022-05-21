@@ -9,11 +9,13 @@
 - [Separate Game Audio, Discord, Music in OBS! (A Voicemeeter Tutorial For Beginners)](https://youtu.be/XD9sWOjITYU)
 - [How to Remove Discord Voice Chat from Your OBS Stream (JP)](https://arutora.com/15444)
 - [Use VoiceMeeter with VB Audio Cable for Skype, Zoom or Discord](https://voicemeeter.com/use-voicemeeter-with-vb-audio-cable-for-skype-zoom-or-discord/)
+- [Mute Discord notification sounds while streaming using Voicemeeter Banana + Voice Audio Cables (VAC)](https://youtu.be/SSNtcn6urWc)
 - [Reducing Audio Latency in VoiceMeeter](https://www.youtube.com/watch?v=LAYKcIC5iFY&feature=youtu.be)
 - [OBS Studio - Wiki](https://obsproject.com/wiki/)
 - [OBS Studio - Basic Setup Guide](https://youtu.be/tl4J4GGpflA)
 - [OBS Studio - NVENC Output Setup](https://youtu.be/JmGQ6X8d0Y8)
 - [OBS Studio - Replay Buffer (Shadowplay) Setup Guide](https://youtu.be/oSI_KA4Q8gA)
+- [OBS Studio - Advanced Recording Guide With Multi Track Audio](https://obsproject.com/wiki/Advanced-Recording-Guide-With-Multi-Track-Audio)
 - [OBS Studio - Filters Guide](https://obsproject.com/wiki/Filters-Guide)
 - [OBS Studio - Plugins](https://obsproject.com/forum/resources/categories/obs-studio-plugins.6/)
 - [Streamlabs Stream Widgets](https://streamlabs.com/widgets)
@@ -30,7 +32,7 @@
 - Increasing your gain at the source is the best way to boost your mic volume, but you should only boost the gain up to a point before it begins to significantly amplify background noise.
 - After setting this baseline gain level, you can further boost it in software (ex. applying Gain in OBS)
 
-# VoiceMeeter Banana
+# VoiceMeeter
 
 ## Windows Sound Setup
 
@@ -38,6 +40,7 @@
 - Control Panel > Sound > Playback > Set VoiceMeeter Aux Input as Default Communications Device
 - Control Panel > Sound > Recording > Set VoiceMeeter Output as Default Device
 - Control Panel > Sound > Recording > Set VoiceMeeter Aux Output as Default Communications Device
+- *Settings > System > Sound > App volume and device preferences (Can separately set audio input/output to something other than the default for applications that don't let you change them within their own settings (ex. routing internet browser audio to a Virtual Cable))* (Optional)
 
 ## Basic VoiceMeeter Settings
 
@@ -62,12 +65,19 @@
 - Mic = VoiceMeeter Aux Output
 - Discord = CABLE Output
 - Desktop = VoiceMeeter Input
-- Other Voice = VoiceMeeter Aux Input
+- Voice Chat = VoiceMeeter Aux Input
+- *Browser/ETC = VoiceMeeter VAIO3 Input* (Optional, if using VoiceMeeter Potato)
 
 ## In Discord
 
-- Input Device: VoiceMeeter Aux Output
-- Output Device: CABLE Input
+- Settings > App Settings > Voice & Video > Input Device: VoiceMeeter Aux Output
+- Settings > App Settings > Voice & Video > Output Device: CABLE Input
+- Settings > App Settings > Streamer Mode > Check "Automatically Enable/Disable"
+- Settings > App Settings > Streamer Mode > Options > "Hide Personal information" ON
+- Settings > App Settings > Streamer Mode > Options > "Hide Invite Links" ON
+- Settings > App Settings > Streamer Mode > Options > "Disable Sounds" OFF
+- Settings > App Settings > Streamer Mode > Options > "Disable Notifications" ON
+- (In Windows) Settings > System > Sound > App volume and device preferences > (Find the volume slider for Discord notification sounds) > CABLE Input
 
 ## In Games And Other Voice Applications
 
@@ -78,7 +88,7 @@
 
 - (In Sound Control Panel, for each device) Properties > Advanced > Default Format > Match the sample rate of all input and output devices (ex. if mic goes up to 48 kHz, match other devices at 48 kHz)
 - VoiceMeeter Banana > Menu > System Settings/Options > Make sure that the sample rate of all input and output devices match.
-- VoiceMeeter Banana > Menu > System Settings/Options > Try lowering buffer size (256 is probably safe) and/or switching Engine Mode to Swift (experimental)
+- VoiceMeeter Banana > Menu > System Settings/Options > Try lowering buffer size (256 is probably safe)
 
 ## Troubleshooting
 
@@ -107,7 +117,7 @@
 ### Output
 
 - Output Mode: Advanced
-- Streaming > Audio Track: 6 (or any other number, it is the default audio track for the stream that all audio sources should output to)
+- Streaming > Audio Track: 1 (the default audio track for the stream that all audio sources should output to)
 - Streaming > Encoder: NVIDIA NVENC H.264 (if available)
 - Streaming > Uncheck: "Rescale Output"
 - Streaming > Rate Control: CBR
@@ -123,10 +133,19 @@
 - Recording > Recording Path > Check: "Generate File Name without Space"
 - Recording > Recording Format: mkv
 - Recording > Audio Track: Check all audio tracks being used
-- Recording > Encoder: "(Use stream encoder)"
-- Audio > Track X > Audio Bitrate: Select based on upload speed, file size requirements, streaming service requirements, etc.
-- Replay Buffer > Check: "Enable Replay Buffer" > 
+- Recording > Encoder: NVIDIA NVENC H.264 (if available)
+- Recording > Rate Control: CQP
+- Recording > CQ Level: Between ~16-22 (LOWER is higher quality; default is 20)
+- Recording > Keyframe Interval: 0
+- Recording > Preset: Quality
+- Recording > Profile: high
+- Recording > Uncheck: "Look-ahead"
+- Recording > Uncheck: "Psycho Visual Tuning"
+- Recording > Max B-frames: 2
+- Audio > Track X > Audio Bitrate: 160 (default; may want to adjust based on upload speed, file size requirements, streaming service requirements, etc.)
+- Replay Buffer > Check: "Enable Replay Buffer"
 - Replay Buffer > Maximum Replay Time: 300s (or desired length) (IMPORTANT: also need to set a hotkey to Save Replay)
+- Replay Buffer > Maximum Memory > 512 MB (default)
 
 ### Audio
 
