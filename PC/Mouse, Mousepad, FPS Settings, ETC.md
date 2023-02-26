@@ -22,7 +22,7 @@
 - In-Game Resolution: 1920x1080 (Windowed)
 - Ideal Mouse Debounce Time: ~4ms (typically fast enough to avoid feeling any click latency, while also preventing accidental double clicks)
 - Mouse CPI: 800 CPI
-- Ideal FOV: ~100-110 Actual Horizontal FOV (may want to adjust depending on monitor size/distance)
+- Ideal FOV: ~100-105 Actual Horizontal FOV (may want to adjust depending on monitor size/distance)
 - Ideal Mouse Sensitivity: Situational (see below)
 - Ideal ADS Sensitivity Multipliers: Generally, 0% Monitor Distance Match AKA Zoom Ratio AKA Focal Length Scaling (depends on base FOV) (use Aim Lab or something to get the correct value)
 
