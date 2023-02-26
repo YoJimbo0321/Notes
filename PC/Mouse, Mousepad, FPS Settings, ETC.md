@@ -38,8 +38,7 @@
 
 # Apex Legends
 
-- (In profile.cfg)
-- FOV: cl_fovScale "1.267021" (105 HFOV)
+- (In profile.cfg) FOV: cl_fovScale "1.267021" (105 HFOV)
 - Aim Down Sights: Toggle
 - Crouch: Hold
 
@@ -53,8 +52,9 @@
 
 ### ADS Mouse Sensitivity Multipliers
 
-- (In settings.cfg)
-- All optics @ 105 HFOV: 1.0054 (Apex TRIES to use the 0% Monitor Distance Match formula at 1.0, but has some conversion rounding errors at in-game FOV slider values other than 70)
+- (For any base sens @ 105 HFOV)
+- (In settings.cfg) For all optics: 1.0054
+- (NOTE: Apex tries to use the 0% Monitor Distance Match formula for 1.0 ADS Sensitivity, but has some conversion rounding errors at in-game FOV slider values other than the base value of 70, which is why the accurate value at other FOVs isn't exactly 1.0)
 
 # Hunt: Showdown
 
@@ -75,7 +75,7 @@
 
 ### ADS Mouse Sensitivity Multipliers
 
-- (For 0.83 base @ 103 HFOV)
+- (For base 0.83 @ 103 HFOV)
 - Shoulder Aim (Zoom): 0.70 (42.22 cm/360)
 - ADS (Iron Sights): 0.68
 - Deadeye Scope: 0.54
@@ -97,6 +97,7 @@
 
 ### ADS Mouse Sensitivity Multipliers
 
+- (For any base sens @ 103 HFOV)
 - ("Relative Aim Sensitivity While Zoomed")
 - (Ashe): 51.47
 - (Ana; Widowmaker): 37.89
@@ -123,7 +124,7 @@
 
 # Valorant
 
-- FOV: 103 (103 HFOV; locked)
+- FOV: 103 (103 HFOV (locked))
 - Aim Down Sights: Toggle
 - Sniper Rifle Aim: Toggle
 - Operator Zoom: Toggle
@@ -152,6 +153,7 @@
 
 ### ADS Mouse Sensitivity Multipliers
 
+- (For any base sens @ 103 HFOV (locked))
 - ADS Sensitivity Multiplier: 0.908 (1.15x - Ares, Odin, Spectre, Stinger)
 - ADS Sensitivity Multiplier: 0.870 (1.25x - Bulldog, Phantom, Vandal)
 - **ADS Sensitivity Multiplier: 0.815 (1.5x - Guardian, Headhunter)**
@@ -287,7 +289,7 @@
 ## TL;DR
 
 - Don't think about it too hard, it's too confusing if you're dumb like me.
-- Just go into Aim Lab, plug in your base sensitivity and FOV, and follow the instructions above to find out what ADS sensitivity multiplier values you need to plug in to get 0% monitor match scaling.
+- Just go into Aim Lab, plug in your base mouse sensitivity and FOV values, and follow the instructions above to find out what ADS sensitivity multiplier values you need to plug in to get 0% monitor match scaling.
 - Note that for games like Valorant that do not have individual sensitivity sliders for each and every zoom level/optic, you will have to choose one optic to "sync up" with.
 
 ## Assorted Quotes/Explanations
