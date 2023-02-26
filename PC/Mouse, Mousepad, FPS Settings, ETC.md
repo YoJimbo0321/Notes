@@ -86,7 +86,7 @@
 # Overwatch
 
 - FOV: 103 (103 HFOV; max)
-- Toggle Zoom: OFF (Ashe)
+- Toggle Zoom: OFF (Ashe) (for scoped shot -> unscope -> hipfire shot double-tap)
 - Toggle Zoom: ON (Ana; Widowmaker)
 - Crouch: Hold
 
