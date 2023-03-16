@@ -46,6 +46,7 @@
 
 - 1.85 = 28.084 cm/360
 - **1.62 = 32.071 cm/360** (40.152 cm/360 ADS w/ Iron Sights or 1x Optic)
+- 1.53 = 33.957 cm/360
 - 1.44 = 36.08 cm/360
 - 1.37 = 37.923 cm/360
 - 1.30 = 39.965 cm/360
@@ -59,7 +60,7 @@
 # Hunt: Showdown
 
 - Control Scheme: Hunter
-- FOV: 103 (103 HFOV)
+- FOV: 105 (105 HFOV)
 - Lowered State Field of View: Default
 - Shoulder Aim Field of View: Zoom
 - Shoulder Aim Input: Toggle
@@ -75,25 +76,30 @@
 
 ### ADS Mouse Sensitivity Multipliers
 
-- (For base 0.83 @ 103 HFOV)
+- (For base 0.83 @ 105 HFOV)
 - Shoulder Aim (Zoom): 0.70 (42.22 cm/360)
-- ADS (Iron Sights): 0.68
-- Deadeye Scope: 0.54
-- Marksman Scope: 0.48
+- ADS (Iron Sights): 0.67
+- Deadeye Scope: 0.53
+- Marksman Scope: 0.47
 - Sniper Scope: 0.24
 - Aperture Scope: 0.64
 
 # Overwatch
 
 - FOV: 103 (103 HFOV; max)
-- Toggle Zoom: OFF (Ashe) (for scoped shot -> unscope -> hipfire shot double-tap)
+- Toggle Zoom: ON (Ashe) (Hold makes scoped shot -> unscope -> hipfire shot double-tap faster, but toggle feels more generally stable)
 - Toggle Zoom: ON (Ana; Widowmaker)
 - Crouch: Hold
 
 ## Mouse Sensitivity
 
-- **5.41% = 32.011 cm/360** (ADS/Melee/Dive/ETC (Tank: D.Va, Doomfist, Reinhardt, Winston, Wrecking Ball; Damage: Ashe, Genji, Reaper, Tracer, Widowmaker; Support: Ana, Brigitte, Lucio, Moira))
-- **4.33% = 39.996 cm/360** (General (Tank: Junker Queen, Orisa, Ramattra, Roadhog, Sigma, Zarya; Damage: Bastion, Cassidy, Echo, Hanzo, Junkrat, Mei, Pharah, Sojourn, Soldier: 76, Sombra, Symmetra, Torbjorn; Support: Baptiste, Kiriko, Mercy, Zenyatta))
+- 6.18% = 28.023 cm/360
+- **5.41% = 32.011 cm/360** (Tanks/Close-Range/ADS/ETC (Tank: ALL; Damage: Ashe, Genji, Reaper, Tracer, Widowmaker; Support: Ana, Brigitte, Lucio, Mercy, Moira))
+- 4.81% = 36.005 cm/360
+- 4.56% = 37.978 cm/360
+- **4.33% = 39.996 cm/360** (Other (Damage: Bastion, Cassidy, Echo, Hanzo, Junkrat, Mei, Pharah, Sojourn, Soldier: 76, Sombra, Symmetra, Torbjorn; Support: Baptiste, Kiriko, Zenyatta))
+- 3.94% = 43.955 cm/360
+- 3.76% = 46.059 cm/360
 
 ### ADS Mouse Sensitivity Multipliers
 
@@ -146,9 +152,11 @@
 - 0.371 = 44.0123 cm/360
 - 0.355 = 45.996 cm/360
 - 0.340 = 48.0252 cm/360
-- 0.327 = 49.9345 cm/360
+- 0.326 = 50.088 cm/360
+- 0.314 = 52.002 cm/360
 - 0.302 = 54.068 cm/360
 - **0.292 = 55.920 cm/360**
+- 0.281 = 58.109 cm/360
 - 0.272 = 60.0315 cm/360
 
 ### ADS Mouse Sensitivity Multipliers
@@ -167,6 +175,7 @@
 - [prosettings](https://prosettings.net)
 - [b-gamers](https://b-gamers.net/category/articles/players/)
 - [inkyagamer](https://inkyagamer.com/)
+- [VSPO Valorant Mouse Sensitivities](https://devices.honakeng.com/vspo_sensi/)
 
 # Choosing a Mouse, Mousepad, ETC
 
@@ -204,11 +213,10 @@
 ## Mousepad, and Mouse Feet/Skates Considerations
 
 - When it comes to mousepad and mouse skate set ups, there are two main factors to consider: the static friction and the dynamic friction.
-- Higher static friction generally correlates to higher stopping power, but also makes it more difficult to make micro-adjustments from a standstill.
-- Lower static friction conversely correlates to greater ease of making micro-adjustments at the cost of stopping power.
-- Higher dynamic friction generally correlates to better control over the mouse when it is in motion (which can also correlate to stopping power), but can also feel "muddy" if too high, making it harder to push the mouse where you want it to go.
-- Lower dynamic friction conversely correlates to a faster glide, but can also feel "slippery" if too low, as the mouse will have greater momentum in motion (especially with heavier mice).
-- Roughly speaking, lower static friction and higher dynamic friction (up to a point) should make it easier to control higher sensitivities.
+- Higher static friction generally correlates with higher stopping power, but also makes it more difficult to make micro-adjustments from a standstill.
+- Lower static friction conversely generally correlates with greater ease of making micro-adjustments at the cost of stopping power.
+- Higher dynamic friction generally correlates with better control over the mouse when it is in motion (which can also correlate with stopping power), but can also feel "muddy" if too high, making it harder to push the mouse where you want it to go.
+- Lower dynamic friction conversely generally correlates with a faster glide, but can also feel "slippery" if too low, as the mouse will have greater momentum in motion (especially with heavier mice).
 - In addition to the surface, stopping power can also be affected by different thicknesses and densities/hardness/softness of the mousepad (ex. a "Mid" hardness pad can feel very different compared to its "X-Soft" equivalent).
 
 # Choosing a Mouse Sensitivity, FOV, ETC
@@ -242,7 +250,9 @@
 - **As such, it is best to think of the sensitivity ranges listed below as APPROXIMATES based mainly on the type of aiming movements you would be making. Specific sensitivities should be thought of as a baseline rather than a perfectly accurate value that will translate flawlessly across different mice, because they probably won't. This is especially true if you switch between different mice. The same sensitivity may not produce the same in-game cm/360 distance on different mice, so you may have to adjust the sensitivity slightly up or down between mice to retain the same feel.**
 - Also note that this effect becomes more pronounced at lower CPIs with higher pixel/count ratios, as each individual skipped/missed count will constitute a greater error.
 
-## General Mouse Sensitivity Ranges (Anecdotal and Subjective)
+## Mouse Sensitivity Ranges
+
+- **The following is an anecdotal and subjective estimation of three main sensitivity ranges. There's no hard rule for what exact sensitivities match with what exact movements, and there is obviously a lot of cross-over, especially for sensitivies close to the border between two ranges.** 
 
 ```
 - High: ~10-30 cm/360 (mainly wrist aiming, arm sweeps for larger movements outside of the comfortable wrist flick range)
@@ -253,7 +263,7 @@
 ### High Sensitivities
 
 - Sensitivities in the High range allow you to cover a wider area with quick and precise wrist flicks, minimizing the usage of less precise arm sweeps, and have an objectively faster turn rate for snapping between multiple angles/targets or quickly turning around.
-- In a vacuum, higher sensitivities are faster and more flexible than low sensitivities, making them better suited to dealing with less-than-ideal situations, such as flicking to a target at the edge of your screen, having to make a quick turn to face an enemy behind you, or tracking a strafing enemy at very close range.
+- In a vacuum, higher sensitivities are faster and more flexible than low sensitivities, making them better suited to dealing with less-than-ideal situations, such as flicking to a target at the edge of your screen, having to make a quick turn to face an enemy behind you, or tracking strafing enemies at very close range.
 - **In theory, with perfect, robotic mouse control, a high sensitivity is the most optimal overall, in that there is objectively less movement of the mouse required to move the crosshair to any given position. HOWEVER, the main disadvantages of a high sensitivity, practically speaking, are that precisely controlling the mouse is more difficult, and that lapses in mouse control can be more impactful, potentially leading to inconsistency and instability. Steady tracking in particular can be difficult depending on the game/situation.**
 - Jittery hands or imprecision due to caffeine, sleep deprivation, or other disruptions are amplified the higher your mouse sensitivity is, and, conversely, reduced the lower your mouse sensitivity is. Mental/physical tension that prevents you from smoothly operating your mouse is also a factor (i.e. if you tense up and become unable to make the very fine movements you need.)
 - In some games, like Apex Legends, enemies can begin shooting at you from many different angles, and once a fight begins, you have to be able to properly track a moving opponent as they run, jump, and slide all over the place. Because such situations are core to the game, it may warrant the use of a higher sensitivity. Additionally, as there is little accuracy penalty for shooting while strafing, strafing can be used to help line up your shots while moving, both of which can help compensate for the potential difficulty of tracking targets with just the mouse at higher sensitivities. Those same factors also make it more viable (and necessary at higher levels) to misdirect and dodge enemy fire through movement while also firing back, again potentially warranting a higher sensitivity to keep up with.
@@ -269,8 +279,9 @@
 ### Mid Sensitivities
 
 - Sensitivities in the Mid range mix the advantages and disadvantages of High and Low sensitivities. Compared to Low sensitivities, Mid sensitivities are faster and more agile, but sacrifice some of the leniency and stability. Compared to High sensitivities, Mid sensitivities are more lenient and stable, but sacrifice speed and agility. Mouse movements will typically be made mainly with the wrist (like High sensitivities) when close to the center of the screen, and made with compound movements consisting of arm sweeps with adjustments made by the wrist (like Low Sensitivities) when further from the center of the screen.
-- **Generally speaking, Mid sensitivities are a best-of-both-worlds option. However, they can ALSO have unique disadvantages/trade-offs, due to being neither a mainly wrist-focused nor a mainly arm-focused sensitivity range. Compared to a sensitivity in the High or Low range, a Mid sensitivity can have more awkward in-between zones that are outside of your comfortable wrist flick range, and/or too close to comfortably arm sweep to. The exact cm/360 values that could feel awkward for you may vary based on your individual anatomy/biomechanics, but these awkward zones would require more careful and compact movements to reach, making them more inefficient and difficult to cover. You can of course practice to cover those zones more effectively, but those kinds of motions will always be more mechanically complex and prone to error than a wrist flick or a more lenient arm sweep.**
-- **That being said, it is debatable how relevant this would actually be in most practical in-game situations. For example, in a game like Valorant, being too slow/imprecise when reaching for such a zone in a 1-shot kill situation could be disastrous, but proper pre-aiming and positioning would probably make such occurrences rare outside of a few specific angles or situations. Meanwhile, in a game like Apex Legends, enemies popping up in those awkward zones is much more common, but being slightly too slow on your initial flick to such a zone is rarely going to outright decide the fight, due to the higher TTK and movement options available.**
+- **Mid sensitivities are arguably the best for close-to-mid-range tracking, compared to higher sensitivities where you might overshoot your target, and lower sensitivities where you might struggle to keep up with your target. This is also influenced by the character movement speed in a given game.**
+- **While Mid sensitivities may seem like a best-of-both-worlds option, they can also have unique disadvantages/trade-offs. Compared to a sensitivity in the High or Low range, a Mid sensitivity can have more awkward in-between zones that are outside of your comfortable wrist flick range but also too close to comfortably arm sweep to. The exact cm/360 values that could feel awkward for you may vary based on your individual anatomy/biomechanics, but these awkward zones would require more careful and compact movements to reach, making them more inefficient and difficult to cover. You can of course practice to cover those zones more consistently, but those kinds of motions will always be more prone to error than a wrist flick or a more lenient arm sweep.**
+- That being said, it is debatable how relevant this would actually be in most practical in-game situations. For example, in a game like Valorant, being too slow/imprecise when reaching for such a zone in a 1-shot kill situation could be disastrous, but proper pre-aiming and positioning would probably make such occurrences rare outside of a few specific angles or situations. Meanwhile, in a game like Apex Legends, enemies popping up in those awkward zones is much more common, but being slightly off on your initial flick is rarely going to outright decide the fight, due to the higher TTK and the movement options available.
 
 # ADS Mouse Sensitivity Multipliers
 
@@ -289,8 +300,9 @@
 ## TL;DR
 
 - Don't think about it too hard, it's too confusing if you're dumb like me.
-- Just go into Aim Lab, plug in your base mouse sensitivity and FOV values, and follow the instructions above to find out what ADS sensitivity multiplier values you need to plug in to get 0% monitor match scaling.
-- Note that for games like Valorant that do not have individual sensitivity sliders for each and every zoom level/optic, you will have to choose one optic to "sync up" with.
+- **Just go into Aim Lab, plug in your base mouse sensitivity and FOV values, and follow the instructions above to find out what ADS sensitivity multiplier values you need to plug in to get 0% monitor match scaling.**
+- 
+- **Note that for games like Valorant that do not have individual sensitivity sliders for each and every zoom level/optic, you will have to choose one optic to "sync up" with.**
 
 ## Assorted Quotes/Explanations
 
@@ -306,7 +318,7 @@
 > 
 > You can still use another monitor match if it doesn't fit you, I know many players who prefer to use 100% horizontal monitor match distance.
 
-> The reason why you can judge distances properly with 0% is because the distance scales with the zoom. If you zoom in 2x, the target will be 2x further away on your screen, and will require 2x more mouse movement to flick to compared to before the zoom. If you make this a fair comparison and scale the distance between you and the target to counteract the zoom, then the mouse distances will be the same. This will also benefit tracking, since the perceived movement speed, size, and distance of the movement will scale with the zoom, and so will the sensitivity. So if the distance between you and the target scales with the zoom also, then a target will move the same speed across your screen, and require the exact same mouse movement.
+> The reason why you can judge distances properly with 0% is because the distance scales with the zoom. If you zoom in 2x, the target will be 2x further away on your screen [sic]; should say "0.5 the distance away on your screen"], and will require 2x more mouse movement to flick to compared to before the zoom. If you make this a fair comparison and scale the distance between you and the target to counteract the zoom, then the mouse distances will be the same. This will also benefit tracking, since the perceived movement speed, size, and distance of the movement will scale with the zoom, and so will the sensitivity. So if the distance between you and the target scales with the zoom also, then a target will move the same speed across your screen, and require the exact same mouse movement.
 
 > Match distance isn't "accurate within a circle." Any match distance will only be perfectly matched at that specific distance and just get more and more off the further you are from it, whether it's more inside or outside. However distance match only works when you're starting at 0° horizontal. I.e. if you're aiming up or down at all, even a little bit, then the concept of a distance being matched stops working entirely.
 > 
@@ -326,6 +338,7 @@
 ## Links/Resources
 
 - [keyboard-layout-editor.com](http://www.keyboard-layout-editor.com)
+- [[Kamito] (Eng Sub) Kamito's keyboard controls in APEX](https://youtu.be/gTIp5HuAVc0)
 
 ## Left/Right Lean Keybinds
 
@@ -340,6 +353,8 @@
 - [[Ron Rambo Kim] How to Practice the 6 Major Aiming Motions in Aim Lab](https://youtu.be/nYcPR2aNeRM)
 - [[Ron Rambo Kim] Wrist Flicking Secret (Featuring Shroud & n0thing)](https://youtu.be/XjSmQzfmE8I)
 - [[Ron Rambo Kim] Hit More Flick Headshots](https://youtu.be/WE_2LzGiDwM)
+- [[Voltaic] Aim Journey](https://docs.google.com/document/d/1JoNtoHK9GgJCjE-7yQxKXkpAkGJyOBBipiZqPNYwECs/edit?usp=sharing)
+- [[Optimum Tech] I Spent 352hrs Playing Aim Trainers..](https://youtu.be/kXQZ85B053s)
 
 #pc
 #settings
