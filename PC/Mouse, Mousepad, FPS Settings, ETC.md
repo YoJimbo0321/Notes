@@ -5,9 +5,9 @@
 - Right Hand Measurements: ~17x10 cm
 - Grip Style: 1-2-2 relaxed claw grip
 - Mouse: Logitech G Pro X Superlight
-- Mouse Feet/Skates: Corepad Skatez
-- Mouse Grips/Tape: Corepad Grips; Lizard Skins Grips (only on the right side)
-- Mousepad: Lethal Gaming Gear Venus PRO (XL SQ (500x500 mm))
+- Mouse Feet/Skates: Corepad Skatez; BT.L Vance Skates
+- Mouse Grips/Tape: Corepad Grips; BT.L Grips; Lizard Skins Grips (only on the right side)
+- Mousepad: Lethal Gaming Gear Venus PRO (XL SQ (500x500 mm)); Lethal Gaming Gear Saturn (XL SQ (500x500 mm))
 - Keyboard: Glorious GMMK PRO 75% (Gateron Browns)
 - Monitor(s): Dell S2719DGF
 - Arm Sleeve: OutdoorEssentials Compression Arm Sleeves
@@ -151,7 +151,7 @@
 - 0.389 = 41.9758 cm/360
 - 0.371 = 44.0123 cm/360
 - 0.355 = 45.996 cm/360
-- 0.340 = 48.0252 cm/360
+- **0.340 = 48.0252 cm/360**
 - 0.326 = 50.088 cm/360
 - 0.314 = 52.002 cm/360
 - 0.302 = 54.068 cm/360
@@ -210,13 +210,14 @@
 - [[Boardzy] Explaining impact of sensor position](https://youtu.be/sTdf-sgV9_M?t=74)
 - [[Boardzy] Explaining impact of sensor position 2](https://youtu.be/DSg0UqTrg14?t=117)
 
-## Mousepad, and Mouse Feet/Skates Considerations
+## Mousepad and Mouse Feet/Skates Considerations
 
+- Mousepads and mouse skates can have a surprisingly significant effect on the overall feel of your setup. The way that they interact with the glide and friction of the mouse significantly impacts the overall feel of the mouse and mouse sensitivity that you are using.
 - When it comes to mousepad and mouse skate set ups, there are two main factors to consider: the static friction and the dynamic friction.
-- Higher static friction generally correlates with better stopping power, but also makes it more difficult to make micro-adjustments from a standstill.
-- Lower static friction conversely generally correlates with greater ease of making micro-adjustments at the cost of stopping power.
-- Higher dynamic friction generally correlates with better control over the mouse when it is in motion (which can also correlate with stopping power), but can also feel "muddy" if too high, making it harder to push the mouse where you want it to go.
-- Lower dynamic friction conversely generally correlates with a faster glide, but can also feel "slippery" if too low, as the mouse will have greater momentum in motion (especially with heavier mice).
+- Higher static friction generally correlates with better stopping power and a more "locked in" feeling after stopping the mouse, but also makes it more difficult to make micro-adjustments from a standstill.
+- Lower static friction conversely generally correlates with greater ease of making micro-adjustments, potentially at the cost of stopping power.
+- Higher dynamic friction generally correlates with better overall control over the mouse when it is in motion (which also generally correlates with better stopping power), but can also feel "muddy" if too high, making it harder to push the mouse where you want it to go.
+- Lower dynamic friction conversely generally correlates with an overall faster glide, but can also feel "slippery" if too low, as the mouse will have greater momentum in motion (especially with heavier mice).
 - In addition to the surface, stopping power can also be affected by different thicknesses and densities/hardness/softness of the mousepad (ex. a "Mid" hardness pad can feel very different compared to its "X-Soft" equivalent).
 
 # Choosing a Mouse Sensitivity, FOV, ETC
@@ -279,7 +280,7 @@
 - Low sensitivities are also arguably the best choice for prioritizing "first flick headshots", as the two-step compound movement of stable arm sweep into precise micro-adjustment with the wrist enables a high degree of consistency and accuracy on the first shot on a target.
 - This comes at the cost of speed and agility, especially when responding to non-ideal situations such as quickly turning towards a target that is shooting at you far from the center of (or off of) your screen, or dealing with close-range engagements. As you are limited in the range that you can cover with wrist aiming, there may also be zones that are outside of your wrist aiming range but still too close to center for comfortable arm aiming.
 - Proper positioning, pre-aiming, and crosshair placement can help mitigate some of these drawbacks while enhancing strengths, ex. trying to avoid situations where you might be forced to take a very close-range engagement.
-- In some games, like Valorant or other "tactical" FPS, there is often the potential for one-shot-kill headshots, mobility is (generally) limited, and maps are designed for carefully holding and peeking angles. In these types of games, it becomes more important to quickly and precisely line up your shots with mainly mouse movements, which could make the stability of lower sensitivities more appealing. Making small and compact adjustments to your aim while deadzoning/counter-strafing to shoot while strafing without incurring movement accuracy penalties can also be easier to do with a low sensitivity. Furthermore, these types of games typically give you more control over avoiding non-ideal situations via positioning and utility, potentially reducing the "need" for the benefits of higher sensitivities. It does bear mentioning, however, that Valorant in particular supports ADS zoom on most guns, which could be an argument for a higher base sensitivity compared to a game like CS:GO which does NOT support ADS zoom on most guns. Unlike in CS:GO, ADS can be used in Valorant to situationally zoom in and simulate a more favorable range/effective sensitivity for longer range engagements that would be difficult to manage with hip-fire alone.
+- In some games, like CS:GO, Valorant, or other "tactical" FPS, there is often the potential for one-shot-kill headshots, mobility is (generally) limited, and maps are designed for carefully holding and peeking angles. In these types of games, it becomes more important to quickly and precisely line up your shots with mainly mouse movements, which could make the stability of lower sensitivities more appealing. Making small and compact adjustments to your aim while deadzoning/counter-strafing to shoot while strafing without incurring movement accuracy penalties can also be easier to do with a low sensitivity. Furthermore, these types of games typically give you more control over avoiding non-ideal situations via positioning and utility, potentially reducing the "need" for the benefits of higher sensitivities. It does bear mentioning, however, that Valorant in particular supports ADS zoom on most guns, which could be an argument for a higher base sensitivity compared to a game like CS:GO which does NOT support ADS zoom on most guns. Unlike in CS:GO, ADS can be used in Valorant to situationally zoom in and simulate a more favorable range/effective sensitivity for longer range engagements that would be difficult to manage with hip-fire alone.
 - Sensitivities that are >60 cm/360 generally seem TOO slow, even for tactical shooters. Past a certain point, the benefits in terms of stability are marginal, and even with proper positioning, pre-aiming, and crosshair placement, you increasingly limit your ability to deal with non-ideal situations. Tracking moving targets becomes more and more difficult, as you have to "fight the sensitivity" to keep up with your target, as well as increasingly needing to lift the mouse to reset on the mousepad for large turns. You also begin seriously sacrificing the ability to use your wrist to make small adjustments or precise flicks as the range comfortably covered by the wrist shrinks to a near-negligible size. 
 
 ### Mid Sensitivities
@@ -288,7 +289,7 @@
 - Mid sensitivities are arguably the best for tracking targets at close-to-mid-range (~5-30 m), compared to High sensitivities where you might struggle not to overshoot your target, and Low sensitivities where you might struggle to keep up with your target. This can be dependent upon the character movement speed in a given game, among other factors.
 - Compared to a sensitivity in the High or Low range, a Mid sensitivity can have more of those awkward in-between zones that are outside of your comfortable wrist aiming range but also too close to comfortably arm sweep to. The exact zones that could feel awkward for you may vary based on your exact sensitivity and individual anatomy/biomechanics, but these awkward zones would require more careful movements to precisely cover, making them more inefficient and difficult to cover. You can of course practice to cover those zones more consistently, but doing so will always be more prone to error compared to the more comfortable zones.
 - Proper positioning, pre-aiming, and crosshair placement can help mitigate some of these drawbacks while enhancing strengths, but arguably not as much compared to High or Low sensitivities, because both the strengths and weaknesses of Mid sensitivities are inherently somewhat diluted by comparison.
-- In some games, like Overwatch, TTK is relatively high compared to some other games (character-dependent), and there is no accuracy penalty for shooting while strafing, often leading to drawn out engagements with a lot of tracking and fishing for headshots, which may warrant a Mid sensitivity. Additionally, there are characters who have to deal with targets in various situations at various ranges and do NOT have any ADS options (ex. Cassidy, Hanzo, Soldier: 76, etc.). These kinds of characters will often encounter non-ideal situations where they may have to deal with a close-range character diving in on them, or try to hit shots on a distant target that is difficult to move in on due to protection from their team. As these kinds of situations are frequent and difficult to completely avoid, it is potentially difficult to justify a High or Low sensitivity that would excessively hinder their ability to deal with either the very close-range or far-range situations. On the other hand, there are other characters who DO have ADS zoom options (ex. Ashe, Widowmaker, Ana, etc.), specialize in closer-range engagements (ex. Genji, Reaper, Tracer, etc.), or even don't rely on precision aim at all (ex. Reinhardt, Moira, etc.). For these characters, it seems reasonable to justify playing on a higher sensitivity, as they are effectively playing a completely different game.
+- In some games, like Overwatch, TTK is relatively high compared to some other games (character-dependent), and there is no accuracy penalty for shooting while strafing, often leading to drawn out engagements with a lot of tracking and fishing for headshots, which may warrant a Mid sensitivity. Additionally, there are characters who have to deal with targets in various situations at various ranges and do NOT have any ADS options (ex. Cassidy, Hanzo, Soldier: 76, etc.). These kinds of characters will often encounter non-ideal situations where they may have to deal with a close-range character diving in on them, or try to hit shots on a distant target that is difficult to move in on due to protection from their team. As these kinds of situations are frequent and difficult to completely avoid, it is potentially difficult to justify a High or Low sensitivity that would excessively hinder their ability to deal with either the very close-range or far-range situations. On the other hand, there are other characters who DO have ADS zoom options (ex. Ashe, Widowmaker, Ana, etc.), specialize in closer-range engagements (ex. Genji, Reaper, Tracer, etc.), or even don't rely on precision aim at all (ex. Reinhardt, Moira, etc.). For these characters, it seems reasonable to justify playing them on a higher sensitivity, as they are effectively playing a completely different game.
 
 # ADS Mouse Sensitivity Multipliers
 
