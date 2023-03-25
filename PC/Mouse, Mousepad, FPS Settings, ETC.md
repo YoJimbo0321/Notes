@@ -7,7 +7,7 @@
 - Mouse: Logitech G Pro X Superlight
 - Mouse Feet/Skates: Corepad Skatez; BT.L Vance Skates
 - Mouse Grips/Tape: Corepad Grips; BT.L Grips; Lizard Skins Grips (only on the right side)
-- Mousepad: Lethal Gaming Gear Venus PRO (XL SQ (500x500 mm)); Lethal Gaming Gear Saturn (XL SQ (500x500 mm))
+- Mousepad: Lethal Gaming Gear Saturn (XL SQ (500x500 mm))
 - Keyboard: Glorious GMMK PRO 75% (Gateron Browns)
 - Monitor(s): Dell S2719DGF
 - Arm Sleeve: OutdoorEssentials Compression Arm Sleeves
@@ -24,7 +24,7 @@
 - Mouse CPI: 800 CPI
 - Ideal FOV: ~100-105 Actual Horizontal FOV (may want to adjust depending on monitor size/distance)
 - Ideal Mouse Sensitivity: Situational (see below)
-- Ideal ADS Sensitivity Multipliers: Generally, 0% Monitor Distance Match AKA Zoom Ratio/Focal Length Scaling (depends on base FOV) (use Aim Lab or something to get the correct value)
+- Ideal ADS Sensitivity Multipliers: Generally, 0% Monitor Distance Match AKA Zoom Ratio/Focal Length Scaling (depends on base FOV and game-specific scaling formulas, use Aim Lab or something to get the correct value)
 
 ## Windows Control Panel
 
@@ -64,51 +64,52 @@
 ## Mouse Sensitivity
 
 - (In Settings.ini) CDPlayerSettings.MouseSensitivityX
-- 0.097981 = 40.0001 cm/360
+- 0.122477 = 32 cm/360
+- 0.097981 = 40 cm/360
 
 # Hunt: Showdown
 
 - Control Scheme: Hunter
 - FOV: 105 (105 HFOV)
 - Lowered State Field of View: Default
-- Shoulder Aim Field of View: Zoom
+- Shoulder Aim Field of View: Default
 - Shoulder Aim Input: Toggle
 - Aim Down Sights Input: Toggle
-- Sprint-to-Aim Transition: Shoulder Aim (shouldn't matter on Toggle Sprint anyway)
+- Sprint-to-Aim Transition: Shoulder Aim (doesn't matter on Toggle Sprint anyway)
 - Keep Lowered State: (Disabled on Hunter Control Scheme)
-- Crouch: Hold
+- Crouch: Toggle
 - Sprint: Toggle
 
 ## Mouse Sensitivity
 
 - (Default/Lowered)
-- 0.83 = 32.047 cm/360
+- **0.83 = 32.047 cm/360**
 - 0.74 = 35.944 cm/360 
-- **0.66 = 40.301 cm/360**
+- 0.66 = 40.301 cm/360
 
-### ADS Mouse Sensitivity Multipliers
+### ADS Mouse Sensitivity
 
-- (For base 0.66 @ 105 HFOV)
-- Shoulder Aim (Zoom): 0.55
-- ADS (Iron Sights): 0.54
-- Deadeye Scope: 0.42
-- Marksman Scope: 0.37
-- Sniper Scope: 0.19
-- Aperture Scope: 0.51
+- (Base: 0.83; FOV: 105; Shoulder Aim Field of View: Default)
+- Shoulder Aim: 0.83
+- ADS (Iron Sights): 0.67
+- Deadeye Scope: 0.53
+- Marksman Scope: 0.47
+- Sniper Scope: 0.24
+- Aperture Scope: 0.64
 
 # Overwatch
 
 - FOV: 103 (103 HFOV; max)
-- Toggle Zoom: ON (Ashe) (Hold makes scoped shot -> unscope -> hip-fire shot double-tap faster, but toggle feels more generally stable)
+- Toggle Zoom: ON (Ashe) (Hold makes the scoped shot -> un-scope -> hip-fire shot double-tap combo more fluid, but Toggle feels more generally stable)
 - Toggle Zoom: ON (Ana; Widowmaker)
 - Crouch: Hold
 
 ## Mouse Sensitivity
 
 - 6.18% = 28.023 cm/360
-- **5.41% = 32.011 cm/360** (Tanks/Close-Range/ADS/ETC (Tank: ALL; Damage: Genji, Reaper, Tracer; Support: Brigitte, Lucio, Mercy, Moira))
+- **5.41% = 32.011 cm/360** (Default/Tanks/Close-Range/ADS/ETC (Tank: ALL; Damage: Ashe, Genji, Hanzo, Reaper, Sombra, Symmetra, Tracer, Widowmaker; Support: Ana, Brigitte, Kiriko, Lucio, Mercy, Moira))
 - 4.81% = 36.005 cm/360
-- **4.33% = 39.996 cm/360** (Other (Damage: Ashe, Bastion, Cassidy, Echo, Hanzo, Junkrat, Mei, Pharah, Sojourn, Soldier: 76, Sombra, Symmetra, Torbjorn, Widowmaker; Support: Ana, Baptiste, Kiriko, Zenyatta))
+- **4.33% = 39.996 cm/360** (Tracking/Other (Damage: Bastion, Cassidy, Echo, Junkrat, Mei, Pharah, Sojourn, Soldier: 76, Torbjorn; Support: Baptiste, Zenyatta))
 - 3.94% = 43.955 cm/360 
 
 ### ADS Mouse Sensitivity Multipliers
@@ -163,9 +164,9 @@
 - 0.355 = 45.996 cm/360
 - 0.340 = 48.0252 cm/360
 - 0.326 = 50.088 cm/360
-- 0.314 = 52.002 cm/360
+- **0.314 = 52.002 cm/360**
 - 0.302 = 54.068 cm/360
-- **0.292 = 55.920 cm/360**
+- 0.292 = 55.920 cm/360
 - 0.281 = 58.109 cm/360
 - 0.272 = 60.0315 cm/360
 
@@ -206,29 +207,33 @@
 ## Mouse Weight, Size, and Shape Considerations
 
 - **When it comes to mouse weight, generally speaking, lighter is better. With all other factors being equal, a lighter mouse will always be easier to control than an identical but heavier mouse (up until some arbitrary weight where the difference is no longer significant enough to be felt). This is because the heavier mouse will have more inertia, and have greater momentum when in motion. It is objectively more difficult to get a heavier mouse to start or stop moving than an identical but lighter mouse.**
-- A hypothetical weightless mouse would, in theory, provide the most direct translation of your hand movements to mouse movements, with zero added inertia from the mass of the mouse interfering. The lighter a mouse gets, the closer it gets to this ideal. However, it can be argued that the mass of a mouse can be helpful for compensating for deficiencies in fine motor control (jittery hands, etc.). Some may prefer the stability of mice above a certain weight that can "absorb" some of their twitchiness and imperfect movements.
-- **Narrower mice are generally more precise than wider mice, because the hand is able to get a tighter and more precise grip on the mouse, though this strongly depends on the exact characteristics of the mouse shape. Generally speaking, the narrower the better, as long as the mouse size and shape are still comfortable for your hand size and grip style.**
-- Mice that taper inwards on the side walls can help "lock in" the hand when moving and lifting the mouse, as the fingers can find purchase underneath the "overhang", but that same tapering may interfere with the ability to get a stable grip on the sides.
-- Higher mouse button heights can be more comfortable, but lower button heights are more precise, since your fingertips don't have to be raised as much. Different mouse "hump" widths/heights/shapes can also complement different grip styles and selectively prioritize comfort, stability, and/or precision. 
-- An ergonomic mouse that fills out the hand with a rounded mid-section and high buttons can be comfortable for everyday use, but may not be the most precise choice for games.
-- A mouse that has a relatively wide hump towards the back and drops down low towards the buttons can "fill out" the base of your palm for support and stability while not getting in the way of your fingers, giving you better control.
-- A mouse that is relatively low-profile throughout can synergize with fingertip grips that want to minimize contact with the mouse for maximum dexterity, though at the cost of comfort and stability. Low-profile mice also inherently tend to be smaller and lighter, which further synergizes with fingertip grip priorities.
-- While often overlooked, the position of the sensor on the underside of the mouse can actually have a fairly significant impact on the feeling of mouse movement in-game. Consider the arcing movements one makes with their arm when sweeping/flicking the mouse to either side. Now imagine the sensor tracing those movements and leaving behind an arcing trail. If the sensor placement is noticeably towards the front or towards the back of the mouse, that could noticeably affect the size of the arc, and thus the amount of mouse movement in-game. This effect becomes more pronounced the more you are twisting/turning the mouse as you move it, and is especially noticeable when twisting your wrist for flicks or micro-adjustments.
+- A hypothetical weightless mouse would, in theory, provide the most direct translation of your hand movements to mouse movements, with zero added inertia from the mass of the mouse interfering. The lighter a mouse gets, the closer it gets to this ideal. However, it can be argued that the mass of a mouse can be helpful for compensating for deficiencies in fine motor control (jittery hands, etc.). As such, some may prefer the stability of mice above a certain weight that can "absorb" some of their twitchiness and imperfect movements, though this is also something that can be accounted for in mousepad choice.
+- Narrower mice are typically more precise than wider mice, because the hand is able to get a tighter and more precise grip on the mouse, though this strongly depends on the exact characteristics of the mouse shape. Generally speaking, the narrower the better, as long as the mouse size and shape are still comfortable for your hand size and grip style.
+- Mice with lower main click button height are typically more precise than mice with higher buttons, since your fingertips rest closer to the surface of the mousepad.
+- "Ergo" mouse shapes fill out the hand with contours designed to encourage an ergonomic tilted grip, and typically feature a rounded mid-section and high button height. Ergo mice can be comfortable for everyday use, but may not be the most precise choice for games due to the tilted grip and high button height.
+- "Ambi" or symmetrical mouse shapes are generally safer and more "universal", but potentially less comfortable, especially for extended use. Some mice are mostly symmetrical but have some subtle ergonomic curvature to try and get the best of both worlds.
+- Different middle or back "hump" widths/heights/shapes can also complement different grip styles and selectively prioritize comfort, stability, precision and/or freedom of movement for micro-adjustments within the hand.
+- Mice that are relatively low-profile throughout without a prominent hump can synergize with fingertip grips that want to minimize contact with the mouse for maximum dexterity, though at the cost of comfort and stability. Low-profile mice also inherently tend to be smaller and lighter, which further synergizes with fingertip grip priorities.
+- Mice that taper inwards on the sides from back to front (front of mouse narrower than the back) and/or mice with prominent humps towards the back can assist with the stability of your mouse grip, as the fingers can get a precise grip on the narrower sides while the wider back "fills out" the base of the palm. However, this comes at a trade-off of limiting the ability to make micro-adjustments within the hand using finger movements.
+- Mice that taper inwards on the sides from top to bottom (inwardly slanted side walls) can assist with keeping a solid grip on the mouse when lifting and moving it around, as the fingers can find purchase under the "overhang" as they grip the narrower portion. However, an overly aggressively slant may interfere with the ability to get a stable grip on the sides.
+- While often overlooked, the position of the sensor on the underside of the mouse can actually have a fairly significant impact on the feeling of mouse movement in-game. Consider the arcing movements one naturally makes with their arm when sweeping/flicking the mouse to either side, then imagine the sensor tracing those movements and leaving behind a visible arcing trail. Compared to a relatively central sensor position, placing the sensor more towards the front or towards the back of the mouse could noticeably affect the length and curvature of the arc, in turn affecting mouse movement in-game. This effect also becomes more pronounced the more you twist/turn the mouse as you move it, and is especially noticeable when twisting your wrist for flicks or micro-adjustments.
 
 ### Links/Resources
 
-- [[Boardzy] Explaining impact of sensor position](https://youtu.be/sTdf-sgV9_M?t=74)
-- [[Boardzy] Explaining impact of sensor position 2](https://youtu.be/DSg0UqTrg14?t=117)
+- [[KraftyCraft] Explaining the impact of ergonomic tilted grips on aim](https://youtu.be/mtM1GI4lECc?t=830)
+- [[Boardzy] Explaining the impact of sensor position](https://youtu.be/sTdf-sgV9_M?t=74)
+- [[Boardzy] Explaining the impact of sensor position 2](https://youtu.be/DSg0UqTrg14?t=117)
 
 ## Mousepad and Mouse Feet/Skates Considerations
 
-- Mousepads and mouse skates can have a surprisingly significant effect on the overall feel of your setup. The way that they interact with the glide and friction of the mouse significantly impacts the overall feel of the mouse and mouse sensitivity that you are using.
-- When it comes to mousepad and mouse skate setups, there are two main factors to consider: the static friction and the dynamic friction.
-- Higher static friction generally correlates with better stopping power and a more "locked in" feeling after stopping the mouse, but also makes it more difficult to make micro-adjustments from a standstill.
+- **Mousepads and mouse skates can have a surprisingly significant effect on the overall feel of your setup, as the way that they interact with each other can significantly impact the friction and glide of the mouse.**
+- When it comes to mousepad and mouse skate setups, there are two main factors to consider: the "static" or "initial" friction, and the "kinetic" or "dynamic" friction.
+- Higher static friction generally correlates with a more "locked in" feeling after stopping the mouse and may contribute to stopping power, but also makes it more difficult to make micro-adjustments from a standstill.
 - Lower static friction conversely generally correlates with greater ease of making micro-adjustments, potentially at the cost of stopping power.
-- Higher dynamic friction generally correlates with better overall control over the mouse when it is in motion (which also generally correlates with better stopping power), but can also feel "muddy" if too high, making it harder to push the mouse where you want it to go.
-- Lower dynamic friction conversely generally correlates with an overall faster glide, but can also feel "slippery" if too low, as the mouse will have greater momentum in motion (especially with heavier mice).
-- In addition to the surface, stopping power can also be affected by different thicknesses and densities/hardness/softness of the mousepad (ex. a "Mid" hardness pad can feel very different compared to its "X-Soft" equivalent).
+- Higher kinetic friction generally correlates with better overall control over the mouse when it is in motion and better stopping power, but can also feel "muddy" if too high, making it harder to push the mouse where you want it to go.
+- Lower kinetic friction conversely generally correlates with an overall faster glide, but can also feel "slippery" if too low, as the mouse will have greater momentum in motion (especially with heavier mice).
+- **In addition to the mouse skates and mousepad surface, stopping power and glide speed can also be affected by different mousepad thicknesses and densities/hardness/softness. For example, compared to a given mousepad in "Mid" hardness, the "X-Soft" equivalent may have a less consistent glide speed but superior stopping power depending on how much you force you apply to "dig into" the mousepad.**
+- **While the level of kinetic friction in your setup is largely due to personal preference and how much you value stability/control versus freedom/speed, it is generally advisable to keep the level of static friction low, preferably as low as possible without reaching the point where your ability to "lock in" the mouse is compromised. This is because high static friction compromises your ability to make small adjustments to your aim. Furthermore, even for setups where the static friction isn't that high in a vacuum, if the static friction is RELATIVELY high compared to the kinetic friction, it can cause you to overshoot targets closer to your crosshair due to the steep "dip" in friction experienced as you transition from static to kinetic friction with each mouse movement.**
 
 # Choosing a Mouse Sensitivity, FOV, ETC
 
@@ -299,7 +304,7 @@
 - Mid sensitivities are arguably the best for tracking targets at close-to-mid-range (~5-30 m), compared to High sensitivities where you might struggle not to overshoot your target, and Low sensitivities where you might struggle to keep up with your target. This can be dependent upon the character movement speed in a given game, among other factors.
 - Compared to a sensitivity in the High or Low range, a Mid sensitivity can have more of those awkward in-between zones that are outside of your comfortable wrist aiming range but also too close for comfortably arm aiming. The exact zones that could feel awkward for you may vary based on your exact sensitivity and individual anatomy/biomechanics, but these awkward zones would require more careful movements to precisely cover, making them more inefficient and difficult to cover. You can of course practice to cover those zones more consistently, but doing so will always be more prone to error compared to the more comfortable zones.
 - Proper positioning, pre-aiming, and crosshair placement can help mitigate some of these drawbacks while enhancing strengths, but arguably not as much compared to High or Low sensitivities, because both the strengths and weaknesses of Mid sensitivities are inherently somewhat diluted by comparison.
-- In some games, like Overwatch, TTK is relatively high compared to some other games (character-dependent), and there is no accuracy penalty for shooting while strafing, often leading to drawn out engagements with a lot of tracking and fishing for headshots, which may warrant a Mid sensitivity. Additionally, there are characters who have to deal with targets in various situations at various ranges and do NOT have any ADS options (ex. Cassidy, Hanzo, Soldier: 76, etc.). These kinds of characters will often encounter non-ideal situations where they may have to deal with a close-range character diving in on them, or try to hit shots on a distant target that is difficult to move in on due to protection from their team. As these kinds of situations are frequent and difficult to completely avoid, it is potentially difficult to justify a High or Low sensitivity that would excessively hinder their ability to deal with either the very close-range or far-range situations. On the other hand, there are other characters who DO have ADS zoom options (ex. Ashe, Widowmaker, Ana, etc.), specialize in closer-range engagements (ex. Genji, Reaper, Tracer, etc.), or even don't rely on precision aim at all (ex. Reinhardt, Moira, etc.). For these characters, it seems reasonable to potentially justify playing them on higher sensitivities, as they are effectively playing a completely different game.
+- In some games, like Overwatch, TTK is relatively high compared to some other games (character-dependent), and there is no accuracy penalty for shooting while strafing, often leading to drawn out engagements with a lot of tracking and fishing for headshots, which may warrant a Mid sensitivity. Additionally, there are characters who have to deal with targets in various situations at various ranges and do NOT have any ADS options (ex. Cassidy, Hanzo, Soldier: 76, etc.). These kinds of characters will often encounter non-ideal situations where they may have to deal with a close-range character diving in on them, or try to hit shots on a distant target that is difficult to move in on due to protection from their team. As these kinds of situations are frequent and difficult to completely avoid, it is potentially difficult to justify a High or Low sensitivity that would excessively hinder their ability to deal with either the very close-range or far-range situations. On the other hand, there are other characters who DO have ADS zoom options AND are required to make relatively wide flicks while in ADS (ex. Ashe, Widowmaker, Ana, etc.), specialize in closer-range engagements (ex. Genji, Reaper, Tracer, etc.), or even don't rely on precision aim at all (ex. Reinhardt, Moira, etc.). For these characters, it seems reasonable to potentially justify playing them on higher sensitivities, as they are effectively playing a completely different game.
 
 # ADS Mouse Sensitivity Multipliers
 
