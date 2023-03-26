@@ -106,10 +106,10 @@
 
 ## Mouse Sensitivity
 
-- 6.18% = 28.023 cm/360
-- **5.41% = 32.011 cm/360** (Default/Tanks/Close-Range/ADS/ETC (Tank: ALL; Damage: Ashe, Genji, Hanzo, Reaper, Sombra, Symmetra, Tracer, Widowmaker; Support: Ana, Brigitte, Kiriko, Lucio, Mercy, Moira))
+- **6.18% = 28.023 cm/360** (SPEED) (Damage: Genji, Tracer)
+- **5.41% = 32.011 cm/360** (Default) (Tanks, ADS, Close-Range, Flyers, ETC) (Tank: D.Va, Doomfist, Junker Queen, Orisa, Ramattra, Reinhardt, Roadhog, Sigma, Winston, Wrecking Ball, Zarya; Damage: Ashe, Cassidy, Echo, Hanzo, Junkrat, Mei, Pharah, Reaper, Sombra, Symmetra, Torbjorn, Widowmaker; Support: Ana, Baptiste, Brigitte, Kiriko, Lucio, Mercy, Moira, Zenyatta)
 - 4.81% = 36.005 cm/360
-- **4.33% = 39.996 cm/360** (Tracking/Other (Damage: Bastion, Cassidy, Echo, Junkrat, Mei, Pharah, Sojourn, Soldier: 76, Torbjorn; Support: Baptiste, Zenyatta))
+- **4.33% = 39.996 cm/360** (Hip-Fire Tracking) (Damage: Bastion, Sojourn, Soldier: 76)
 - 3.94% = 43.955 cm/360 
 
 ### ADS Mouse Sensitivity Multipliers
@@ -125,9 +125,16 @@
 
 - Movement Relative to Camera During Barrier Free Look: OFF
 
+### Mei
+
+- Primary Fire: RMB (Endothermic Blaster - Spray)
+- Secondary Fire: LMB (Endothermic Blaster - Icicle)
+
 ### Kiriko
 
 - Toggle Healing Ofuda: OFF
+- Primary Fire: RMB (Healing Ofuda)
+- Secondary Fire: LMB (Kunai)
 
 ### Lucio
 
@@ -136,8 +143,13 @@
 
 ### Mercy
 
-- Toggle Guardian Angel: ON
+- Toggle Beam Connection: ON
 - Guardian Angel Target Priority: Facing Target Only
+
+### Moira
+
+- Primary Fire: RMB (Biotic Grasp - Healing)
+- Secondary Fire: LMB (Biotic Grasp - Damage)
 
 # Valorant
 
@@ -184,6 +196,7 @@
 ## Links/Resources
 
 - [prosettings](https://prosettings.net)
+- [GEARRATE](https://www.gearrate.com/en/)
 - [b-gamers](https://b-gamers.net/category/articles/players/)
 - [inkyagamer](https://inkyagamer.com/)
 - [VSPO Valorant Mouse Sensitivities](https://devices.honakeng.com/vspo_sensi/)
@@ -220,9 +233,9 @@
 
 ### Links/Resources
 
-- [[KraftyCraft] Explaining the impact of ergonomic tilted grips on aim](https://youtu.be/mtM1GI4lECc?t=830)
-- [[Boardzy] Explaining the impact of sensor position](https://youtu.be/sTdf-sgV9_M?t=74)
-- [[Boardzy] Explaining the impact of sensor position 2](https://youtu.be/DSg0UqTrg14?t=117)
+- [[KraftyCraft] Explanation of the impact of ergonomic tilted grips on aim](https://youtu.be/mtM1GI4lECc?t=830)
+- [[Boardzy] Explanation of the impact of sensor position](https://youtu.be/sTdf-sgV9_M?t=74)
+- [[Boardzy] Explanation of the impact of sensor position 2](https://youtu.be/DSg0UqTrg14?t=117)
 
 ## Mousepad and Mouse Feet/Skates Considerations
 
@@ -239,14 +252,13 @@
 
 ## Links/Resources
 
-- [Aim Lab (Aim Trainer, Sensitivity Calculator/Converter, ETC)](https://store.steampowered.com/app/714010/Aim_Lab)
+- [Aim Lab (Aim Trainer, Mouse Sensitivity Calculator/Converter, ETC)](https://store.steampowered.com/app/714010/Aim_Lab)
 - [[mouse-sensitivity.com] Mouse Sensitivity Calculator/Converter](https://www.mouse-sensitivity.com/)
 - [Mouse Sensitivity Calculator for Various Games (JSCalc)](https://jscalc-blog.com/mouse-sensitivity-calculator-for-various-games/)
 - [[The Meta (KovaaK's)] Aiming Essentials](https://themeta.com/blog/category/aiming-essentials/)
 - [[The Meta (KovaaK's)] The REAL Reason Pro Players Use High Field of View](https://themeta.com/pro-player-field-of-view/)
 - [[Ron Rambo Kim] How To Find Your Sensitivity (Any FPS Game)](https://youtu.be/FLHEn2U7CVw)
 - [[/u/Manak1n] Best Sensitivity Settings For Competitive FPS](https://www.reddit.com/r/MouseReview/comments/5kyijc/best_sensitivity_settings_for_competitive_fps/)
-- [/u/DrJugon on "Universal Mouse Sensitivities"](https://www.reddit.com/r/GlobalOffensive/comments/eg8i34/universal_mouse_sensitivity/fc5be35/)
 - [/u/fomorian on Mouse Acceleration/"Enhance Pointer Precision"](https://www.reddit.com/r/LifeProTips/comments/24mzb7/lpt_windows_mouse_settings_destroy_your_accuracy/ch8plcm/)
 - [[Optimum Tech] DPI Deviation is worse than I thought](https://youtu.be/Sbzs5IFCoMQ)
 - [[Voltaic] Why ‘muscle memory’ is seen as a meme in aiming](https://voltaic.medium.com/why-muscle-memory-is-seen-as-a-meme-in-aiming-ce36d3e2789e)
@@ -260,6 +272,11 @@
 - Technically, a mouse set to a higher CPI should be somewhat more precise due to literally having an increased number of counts per inch versus a lower CPI, and lower effective latency as a result (shorter gaps between ticks). As such, a mouse set at 1600 CPI and 1.0 sensitivity in a given game should, in theory, have the same cm/360 distance as a mouse set at 400 CPI and 4.0 sensitivity, while being slightly more precise and having lower effective latency. However, pro and other notable players often seem to anecdotally prefer their mouse to be at 400 or 800 CPI, rather than say 1600 or 3200 CPI.
 - The reasoning behind this could have something to do with the pixel/count ratio of certain CPIs at certain sensitivities. While the cm/360 should the same, a higher resolution CPI at a lower sensitivity will have a lower pixel/count ratio than the equivalent lower CPI at a higher sensitivity, again since it literally has an increased number of counts per inch (each count of the mouse moves a lesser/"finer" number of pixels). The lower resolution CPI will conversely have a higher pixel/count ratio (each count of the mouse moves a greater/"coarser" number of pixels). 
 - A difference in pixel/count ratio shouldn't cause much of a difference in feel in practice (unless there is pixel skipping due to the pixel/count ratio being greater than 1, typically only caused by a combination of very low CPI and high sens), but it could potentially subtly affect how it feels to move your mouse around in-game. For example, it is possible that the "coarser" higher pixel/count ratio of a lower CPI with higher sensitivity feels slightly less "jitter-y" or something.
+
+### Links/Resources
+
+- [[Arrge] Explanation of the use of strafing to assist in aiming](https://youtu.be/-m3fF2D8loc?t=109)
+- [[MoveRights] Explanation of the use of strafing to assist in aiming](https://youtu.be/5LKfxJz7ooI?t=73)
 
 ## CPI Deviation
 
@@ -306,6 +323,10 @@
 - Proper positioning, pre-aiming, and crosshair placement can help mitigate some of these drawbacks while enhancing strengths, but arguably not as much compared to High or Low sensitivities, because both the strengths and weaknesses of Mid sensitivities are inherently somewhat diluted by comparison.
 - In some games, like Overwatch, TTK is relatively high compared to some other games (character-dependent), and there is no accuracy penalty for shooting while strafing, often leading to drawn out engagements with a lot of tracking and fishing for headshots, which may warrant a Mid sensitivity. Additionally, there are characters who have to deal with targets in various situations at various ranges and do NOT have any ADS options (ex. Cassidy, Hanzo, Soldier: 76, etc.). These kinds of characters will often encounter non-ideal situations where they may have to deal with a close-range character diving in on them, or try to hit shots on a distant target that is difficult to move in on due to protection from their team. As these kinds of situations are frequent and difficult to completely avoid, it is potentially difficult to justify a High or Low sensitivity that would excessively hinder their ability to deal with either the very close-range or far-range situations. On the other hand, there are other characters who DO have ADS zoom options AND are required to make relatively wide flicks while in ADS (ex. Ashe, Widowmaker, Ana, etc.), specialize in closer-range engagements (ex. Genji, Reaper, Tracer, etc.), or even don't rely on precision aim at all (ex. Reinhardt, Moira, etc.). For these characters, it seems reasonable to potentially justify playing them on higher sensitivities, as they are effectively playing a completely different game.
 
+### Links/Resources
+
+- [[Arrge] Explanation on how he has to play around his relatively low sens](https://youtu.be/-m3fF2D8loc?t=234)
+
 # ADS Mouse Sensitivity Multipliers
 
 ## Links/Resources
@@ -324,8 +345,7 @@
 
 - Just don't think about it too hard, it's too confusing if you're dumb like me.
 - **Just go into Aim Lab, plug in your base mouse sensitivity and FOV values, and follow the instructions above to find out what ADS sensitivity multiplier values you need to plug in to get 0% monitor match scaling.**
-- 
-- **Note that for games like Valorant that do not have individual sensitivity sliders for each and every zoom level/optic, you will have to choose one optic to "sync up" with.**
+- **NOTE: For games like Valorant that do not have individual sensitivity sliders for each and every zoom level/optic, you will have to choose one optic to "sync up" with.**
 
 ## Assorted Quotes/Explanations
 
@@ -379,7 +399,9 @@
 - [[Voltaic] Aim Journey](https://docs.google.com/document/d/1JoNtoHK9GgJCjE-7yQxKXkpAkGJyOBBipiZqPNYwECs/edit?usp=sharing)
 - [[Optimum Tech] I Spent 352hrs Playing Aim Trainers..](https://youtu.be/kXQZ85B053s)
 
-## Woohoojin On Why Aim Isn't Everything
+## Excerpts
+
+### Woohoojin On Why Aim Isn't Everything in Valorant
 
 > Hey hoojers,
 > 
