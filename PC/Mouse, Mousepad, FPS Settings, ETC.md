@@ -108,9 +108,9 @@
 
 - **6.18% = 28.023 cm/360** (SPEED) (Damage: Genji, Tracer)
 - **5.41% = 32.011 cm/360** (Default) (Tanks, ADS, Close-Range, Flyers, ETC) (Tank: D.Va, Doomfist, Junker Queen, Orisa, Ramattra, Reinhardt, Roadhog, Sigma, Winston, Wrecking Ball, Zarya; Damage: Ashe, Cassidy, Echo, Hanzo, Junkrat, Mei, Pharah, Reaper, Sombra, Symmetra, Torbjorn, Widowmaker; Support: Ana, Baptiste, Brigitte, Kiriko, Lucio, Mercy, Moira, Zenyatta)
-- 4.81% = 36.005 cm/360
-- **4.33% = 39.996 cm/360** (Hip-Fire Tracking) (Damage: Bastion, Sojourn, Soldier: 76)
-- 3.94% = 43.955 cm/360 
+- **4.81% = 36.005 cm/360** (Hip-Fire Tracking) (Damage: Bastion, Sojourn, Soldier: 76)
+- 4.33% = 39.996 cm/360
+- 3.94% = 43.955 cm/360
 
 ### ADS Mouse Sensitivity Multipliers
 
@@ -240,7 +240,8 @@
 ## Mousepad and Mouse Feet/Skates Considerations
 
 - **Mousepads and mouse skates can have a surprisingly significant effect on the overall feel of your setup, as the way that they interact with each other can significantly impact the friction and glide of the mouse.**
-- When it comes to mousepad and mouse skate setups, there are two main factors to consider: the "static" or "initial" friction, and the "kinetic" or "dynamic" friction.
+- When it comes to mousepad size, bigger is typically better (at least ~400x400mm). Larger mousepads give you more freedom to experiment with mouse sensitivity and reduce the need to reset your hand position between movements.
+- Apart from size, there are two main factors to consider when it comes to mousepads (and mouse skates): the "static" or "initial" friction, and the "kinetic" or "dynamic" friction.
 - Higher static friction generally correlates with a more "locked in" feeling after stopping the mouse and may contribute to stopping power, but also makes it more difficult to make micro-adjustments from a standstill.
 - Lower static friction conversely generally correlates with greater ease of making micro-adjustments, potentially at the cost of stopping power.
 - Higher kinetic friction generally correlates with better overall control over the mouse when it is in motion and better stopping power, but can also feel "muddy" if too high, making it harder to push the mouse where you want it to go.
@@ -266,7 +267,7 @@
 ## General Mouse Sensitivity and CPI Considerations
 
 - **One's ideal/preferred mouse sensitivity will depend on their setup (size/shape/weight of mouse, friction of mouse skates/mousepad, etc.) and on their personal anatomy/biomechanics (hand size, arm length, wrist flexibility, etc.).**
-- **The preferred sensitivity could also vary depending on the specific game. Some particularly important considerations include: TTK and the relative importance of smooth tracking vs quick flicks, what the common aiming ranges/situations are, character movement speed and movement options, whether or not the game penalizes accuracy while moving (which in turn affects whether you can use strafing to help make adjustments while shooting), whether the game has ADS zoom or not (ADS zoom and optics can make higher sensitivities more manageable at longer ranges), etc.**
+- **The preferred sensitivity could also vary depending on the specific game. Some particularly important considerations include: TTK and the relative importance of smooth tracking vs quick flicks, what the common aiming ranges/situations are, how much vertical aiming you need to do, character movement speed and movement options, whether or not the game penalizes accuracy while moving (which in turn affects whether you can use strafing to help make adjustments while shooting), whether the game has ADS zoom or not (ADS zoom and optics can make higher sensitivities more manageable at longer ranges), etc.**
 - **Additionally, aiming in all FPS games benefits from proper positioning, pre-aiming, and crosshair placement, and each can serve to enhance the strengths of a given mouse sensitivity while mitigating any drawbacks.**
 - You could even choose to change your sensitivity depending on what role/character you're playing within a single given game. For example, playing on a higher sensitivity for close-range characters and a lower sensitivity for mid-to-far range characters in games like Overwatch.
 - Technically, a mouse set to a higher CPI should be somewhat more precise due to literally having an increased number of counts per inch versus a lower CPI, and lower effective latency as a result (shorter gaps between ticks). As such, a mouse set at 1600 CPI and 1.0 sensitivity in a given game should, in theory, have the same cm/360 distance as a mouse set at 400 CPI and 4.0 sensitivity, while being slightly more precise and having lower effective latency. However, pro and other notable players often seem to anecdotally prefer their mouse to be at 400 or 800 CPI, rather than say 1600 or 3200 CPI.
